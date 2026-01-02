@@ -13,6 +13,7 @@ First, understand how bacteria get from your mouth into your bloodstream. It hap
 ### Bacteremia: Bacteria in the Blood
 
 Every time you:
+
 - Brush your teeth
 - Floss
 - Chew hard food
@@ -94,12 +95,14 @@ The diabetes-periodontitis connection is particularly interesting because it goe
 ### Diabetes Worsens Periodontal Disease
 
 People with diabetes have:
+
 - 2-3× higher risk of developing periodontitis
 - More severe periodontal destruction when they do develop it
 - Slower healing after periodontal treatment
 - Higher risk of tooth loss
 
 The mechanisms include:
+
 - Impaired immune function (neutrophil dysfunction)
 - Advanced glycation end products (AGEs) that trigger inflammation
 - Vascular changes that impair gingival blood supply
@@ -126,6 +129,7 @@ This connection concerns me particularly because it affects the most vulnerable.
 ### The Associations
 
 Pregnant women with periodontitis have elevated risk of:
+
 - **Preterm birth:** 2-3× increased risk in some studies
 - **Low birth weight:** Associated with periodontal disease severity
 - **Preeclampsia:** Some studies suggest association
@@ -133,6 +137,7 @@ Pregnant women with periodontitis have elevated risk of:
 ### The Mechanisms
 
 The leading hypothesis involves inflammatory pathways:
+
 - Pro-inflammatory cytokines from periodontitis may reach the placenta
 - These signals might trigger premature labor
 - Certain periodontal bacteria have been found in amniotic fluid and placentas of women with adverse outcomes

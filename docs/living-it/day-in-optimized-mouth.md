@@ -94,6 +94,7 @@ Usually no special intervention needed. If you've been sipping acidic drinks all
 - If dinner will be followed by hours of evening activity, you might rinse after dinner and do full routine closer to bed
 
 **The cheese trick:** Ending a meal with a small piece of cheese has genuine evidence behind it:
+
 - Casein protein adheres to enamel and provides some protection
 - High calcium and phosphate content supports remineralization
 - Buffers pH
@@ -128,6 +129,7 @@ If you're incorporating oil pulling (Chapter 23), morning is the traditional tim
 ### Intensive Botanical Treatments
 
 If you're using herbal rinses (sage tea, ginger preparations, propolis):
+
 - These can substitute for or supplement your salt/baking soda rinse
 - Some people alternate: basic rinse most days, botanical rinse 2-3 times weekly
 - Use them when you feel you need extra soothing (mild gum inflammation, after stress)

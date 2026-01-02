@@ -36,6 +36,7 @@ This is one of the most clinically relevant features of water flossers. Studies 
 | Water flosser with specialized subgingival tip | ~6+ mm |
 
 For context:
+
 - **Healthy sulcus depth:** 1-3 mm
 - **Early periodontal pockets:** 4-5 mm
 - **Moderate-severe periodontitis:** 6+ mm
@@ -128,6 +129,7 @@ The pressurized delivery means the solution is being *forced* into contact with 
 - Warm water to fill
 
 This is about half the concentration of the swishing rinse. You're compensating with:
+
 - Better delivery to target surfaces
 - Longer contact time (1-2 minutes of irrigation vs. 30-60 seconds of swishing)
 - Mechanical disruption occurring simultaneously

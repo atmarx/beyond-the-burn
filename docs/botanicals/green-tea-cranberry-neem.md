@@ -44,6 +44,7 @@ This is ecological intervention at its finest. You're not killing *S. mutans*—
 Multiple clinical trials have examined green tea's effects on oral health:
 
 A 2016 systematic review in the *Journal of the Indian Society of Periodontology* found that green tea consumption was associated with:
+
 - Reduced periodontal pocket depth
 - Lower gingival inflammation scores  
 - Decreased bleeding on probing
@@ -91,6 +92,7 @@ Cranberry PACs interfere with bacterial adhesion through several mechanisms:
 ### Oral Health Evidence
 
 Laboratory studies have shown cranberry extracts can:
+
 - Reduce *S. mutans* adhesion by up to 80%
 - Inhibit glucosyltransferase (like green tea)
 - Reduce biofilm formation on hydroxyapatite surfaces

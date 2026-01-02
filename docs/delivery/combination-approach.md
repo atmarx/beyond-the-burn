@@ -222,6 +222,7 @@ This protects softened enamel from abrasion.
 ### The Fluoride Contact Window
 
 The longer fluoride stays in contact with teeth, the more effective it is.[^3] This is why "spit, don't rinse" matters. The residual fluoride film continues to:
+
 - Participate in remineralization
 - Incorporate into enamel as fluorapatite
 - Inhibit bacterial metabolism
@@ -233,6 +234,7 @@ If you must rinse after brushing, at least wait 10 minutes. But if you can toler
 Your salt/baking soda rinse would wash away the fluoride film. This is fine—you just shouldn't use them back-to-back.
 
 Good separation strategies:
+
 - Ecological rinse after meals (midday, after dinner)
 - Fluoride brushing at morning and bedtime
 - At least 30 minutes between ecological rinse and fluoride brushing
@@ -247,6 +249,7 @@ Overnight is the most vulnerable period:[^4]
 - Remineralization potential is diminished
 
 This is why the bedtime routine matters most. Go to sleep with:
+
 - Mechanically clean teeth
 - Fluoride film in place
 - No food residue available for bacteria to ferment

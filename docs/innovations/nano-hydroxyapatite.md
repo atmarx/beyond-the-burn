@@ -39,6 +39,7 @@ Research suggests n-HAp works through several pathways:
 The particles physically fill pores, scratches, and demineralized zones in the enamel surface. Electron microscopy studies show n-HAp particles depositing into enamel defects and creating a smoother surface.
 
 This is most relevant for:
+
 - Early "white spot" lesions (demineralized but not cavitated)
 - Microscopic surface roughness
 - Exposed dentin tubules (sensitivity)
@@ -54,6 +55,7 @@ Some evidence suggests n-HAp integrates into the acquired pellicle—the protein
 ### Protein Binding
 
 N-HAp has affinity for oral proteins and bacteria. This may contribute to:
+
 - Reduced bacterial adhesion (coating the surfaces bacteria would attach to)
 - Plaque modification (bacteria adhering to HAp particles rather than enamel)
 

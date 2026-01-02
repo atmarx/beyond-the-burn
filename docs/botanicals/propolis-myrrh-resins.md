@@ -84,6 +84,7 @@ Myrrh is an oleoresin—a mixture of volatile oils, resins, and gums—obtained 
 ### Traditional Use for Oral Health
 
 Myrrh has been used specifically for oral conditions for millennia:
+
 - Mouth ulcers and sores
 - Gum inflammation (gingivitis)
 - Throat infections
@@ -134,6 +135,7 @@ In the 1980s and 1990s, sanguinarine was incorporated into commercial oral care 
 Then reports began emerging of **oral leukoplakia**—white patches in the mouth that are considered pre-cancerous lesions—in long-term users of sanguinarine products.
 
 Several studies found associations:
+
 - Users of sanguinarine products had elevated rates of oral leukoplakia
 - The lesions often occurred in areas of direct product contact (vestibule, where product pooled)
 - Some lesions regressed after product discontinuation

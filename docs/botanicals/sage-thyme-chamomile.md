@@ -107,6 +107,7 @@ The antimicrobial activity is well-documented against a wide range of organisms 
 Chamomile is the gentle healer of the herb world—soothing, calming, and particularly effective for mucous membrane inflammation.
 
 Two species are commonly used:
+
 - **German chamomile** (*Matricaria chamomilla* or *Matricaria recutita*): More commonly used medicinally
 - **Roman chamomile** (*Chamaemelum nobile*): Similar properties, sometimes preferred for tea
 

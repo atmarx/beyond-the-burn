@@ -255,6 +255,7 @@ Silica is essential for:
 Here's where your grandmother's garden matters again. Traditional agriculture maintained soil health through practices that supported mycorrhizal fungi—the underground networks that help plants access minerals, including silica, in bioavailable forms.
 
 Modern industrial agriculture has disrupted these networks through:
+
 - Heavy tilling that destroys fungal hyphae
 - Synthetic fertilizers that bypass natural mineral cycling
 - Monocropping that reduces soil biodiversity
@@ -305,7 +306,7 @@ The art lies in matching the formula to the individual's needs.
 
 ### Richard Whelan's Herbs A-Z
 
-The herb profiles linked throughout this chapter come from [Richard Whelan's website](https://www.rjwhelan.co.nz/herbs A-Z.html), a comprehensive resource maintained by a New Zealand herbalist with decades of clinical experience. His monographs include traditional uses, modern research, safety considerations, and practical application guidance.
+The herb profiles linked throughout this chapter come from [Richard Whelan's website](https://www.rjwhelan.co.nz/herbs_A-Z.html), a comprehensive resource maintained by a medical herbalist in New Zealand with decades of clinical experience. His monographs include traditional uses, modern research, safety considerations, and practical application guidance.
 
 ### Using These Herbs Safely
 

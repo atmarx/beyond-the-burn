@@ -31,6 +31,7 @@ Here's where the miswak becomes remarkable. When you analyze the chemical compos
 **Benzyl isothiocyanate (BITC):** This is the star compound. Isothiocyanates are the pungent chemicals responsible for the bite of mustard, horseradish, and wasabi.[^2] In miswak, BITC concentrations around 10 μg/mL have been measured—enough to have significant antimicrobial effects.
 
 BITC has demonstrated activity against:
+
 - *Streptococcus mutans* (the primary cariogenic bacterium)
 - *Streptococcus faecalis*
 - *Porphyromonas gingivalis* (periodontal pathogen)
@@ -90,6 +91,7 @@ Multiple studies have compared miswak users to toothbrush users:
 ### Mechanism Validation
 
 *In vitro* studies have confirmed antimicrobial activity:
+
 - Miswak extracts inhibit *S. mutans* growth
 - Biofilm formation is reduced in the presence of miswak compounds
 - The effects are dose-dependent and genuine, not just folk belief
@@ -168,6 +170,7 @@ Dried, powdered miswak can be added to homemade toothpaste or used directly. The
 ### Evaluation
 
 Commercial products are probably less effective than fresh miswak for several reasons:
+
 - Processing may destroy some active compounds
 - The mechanical brushing action of the twig is absent
 - Concentrations vary and are often not standardized

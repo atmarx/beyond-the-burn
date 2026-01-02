@@ -19,6 +19,7 @@ Hydroxyapatite is a calcium phosphate mineral with a specific crystalline struct
 **Ca₁₀(PO₄)₆(OH)₂**
 
 What this tells us is that each unit of the crystal contains:
+
 - 10 calcium ions (Ca²⁺)
 - 6 phosphate groups (PO₄³⁻)
 - 2 hydroxide ions (OH⁻)

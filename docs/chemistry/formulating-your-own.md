@@ -248,6 +248,7 @@ Eugenol genuinely numbs tissue through sodium channel blockade.[^2] This isn't p
 **Calcium carbonate:** Food-grade calcium carbonate powder is available online and at health food stores. It's also sold as a supplement and as an antite (the active ingredient in Tums is calcium carbonate). Make sure it's pure, without added flavors or binders.
 
 **Essential oils:** Quality matters here. Look for oils that are:
+
 - 100% pure (no synthetic fragrances)
 - From reputable suppliers
 - Stored in dark glass bottles

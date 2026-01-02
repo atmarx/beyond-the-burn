@@ -49,6 +49,7 @@ This might seem counterintuitive—a candy that prevents cavities?—but the lic
 Before you start consuming licorice by the handful, I need to warn you: glycyrrhizin has significant effects on the body.
 
 Glycyrrhizin inhibits an enzyme (11-β-hydroxysteroid dehydrogenase) that normally inactivates cortisol. The result is that cortisol activity increases, which can lead to:
+
 - Hypertension (high blood pressure)
 - Hypokalemia (low potassium)
 - Edema (fluid retention)
@@ -89,6 +90,7 @@ Manuka honey comes from bees that pollinate the Manuka bush (*Leptospermum scopa
 **Methylglyoxal (MGO):** This is a reactive compound found at much higher concentrations in Manuka honey than in other honeys. MGO is directly antimicrobial—it modifies bacterial proteins and DNA, interfering with bacterial function.
 
 **UMF and MGO ratings:** Manuka honey is graded for its antimicrobial activity:
+
 - UMF (Unique Manuka Factor): A composite rating; UMF 10+ is considered "medical grade"
 - MGO: Direct measurement of methylglyoxal content; MGO 250+ corresponds approximately to UMF 10+
 
@@ -110,6 +112,7 @@ How can something so sweet be antimicrobial? Several factors:
 4. **Hydrogen peroxide** is produced when honey is diluted
 
 The cariogenic risk is reduced when:
+
 - Honey is applied topically rather than consumed
 - Application is to specific sites (wounds, gums) rather than bathing teeth in sugar
 - The antimicrobial and healing effects may offset the sugar exposure
@@ -119,6 +122,7 @@ The cariogenic risk is reduced when:
 **Wound healing:** Manuka honey has strong evidence for wound healing, including several Cochrane reviews for burns and surgical wounds. It's used in medical-grade wound dressings.
 
 **Oral health specifically:** Evidence is more limited:
+
 - *In vitro* studies show activity against oral pathogens
 - A few small clinical trials suggest benefits for gingivitis and plaque
 - Traditional use supports application for mouth sores
@@ -141,6 +145,7 @@ Some practitioners recommend applying Manuka honey to inflamed gums, letting it 
 ### Sourcing Concerns
 
 Manuka honey is expensive and frequently adulterated or mislabeled. If you're buying it for therapeutic use:
+
 - Look for UMF or MGO certification
 - Buy from reputable sources
 - Expect to pay significantly more than regular honey

@@ -126,6 +126,7 @@ Most studies have used either **sesame oil** (traditional) or **coconut oil** (p
 **My recommendation:** Coconut oil has the edge due to its lauric acid content and the studies suggesting slightly better results. It's also more palatable for most people and less likely to go rancid.
 
 Other oils sometimes used:
+
 - **Sunflower oil:** Studied in a few trials with positive results
 - **Olive oil:** Less studied; the strong flavor may be problematic
 - **Specialty oils (black seed, etc.):** Marketing often outpaces evidence

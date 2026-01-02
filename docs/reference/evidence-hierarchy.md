@@ -157,6 +157,7 @@ When you encounter a claim about oral health—whether in this book, on a produc
 ### Question 2: In whom was it tested?
 
 A study conducted in:
+
 - Healthy young adults may not apply to elderly people with dry mouth
 - People with active disease may not apply to prevention in healthy people
 - Laboratory conditions may not apply to real-world use
@@ -174,6 +175,7 @@ Statistical significance is not the same as clinical significance.
 A study might show a "statistically significant" 2% reduction in plaque. But is 2% meaningful for your oral health? Probably not.
 
 Look for:
+
 - **Absolute differences** (not just percentages)
 - **Number needed to treat** (how many people need to use this for one person to benefit)
 - **Clinical outcomes** (actual cavities, not just surrogate markers like bacterial counts)
@@ -189,6 +191,7 @@ Industry-funded studies are not automatically wrong, but they do show a systemat
 A note on fairness: The absence of high-level evidence doesn't mean something doesn't work. It often means no one has funded the research.
 
 Clinical trials are expensive—often millions of dollars for a single RCT. Pharmaceutical companies invest in trials because they expect to recoup costs through patented products. But you cannot patent:
+
 - Salt
 - Baking soda
 - Sage tea

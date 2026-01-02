@@ -47,6 +47,7 @@ Caries isn't caused by specific pathogenic bacteria. It's caused by an **ecologi
 Here's how it works:
 
 **In a healthy mouth** (low sugar intake, reasonable pH):
+
 - The bacterial community is diverse
 - Many species produce alkali as part of their metabolism, neutralizing acids
 - *S. mutans* is present but represents only a small fraction of the community
@@ -55,6 +56,7 @@ Here's how it works:
 - Remineralization exceeds demineralization
 
 **Under sugar stress** (frequent sugar exposure):
+
 - Each sugar episode produces acid, dropping pH
 - Acid-sensitive species decline (they can't tolerate the low pH environment)
 - Acid-tolerant species like *S. mutans* gain competitive advantage

@@ -15,6 +15,7 @@ This means newly erupted permanent teeth are at *higher* caries risk than mature
 ### Higher Sugar Exposure
 
 Children typically consume more frequent sugar exposures than adults:
+
 - Snacks between meals
 - Juice boxes
 - Sweet drinks
@@ -185,6 +186,7 @@ This is where the fluoride controversy matters most. Children's developing teeth
 - Monitor for caries development
 
 **The RO system you mentioned:** Your children aren't getting systemic fluoride from drinking water. This makes:
+
 - Fluoride toothpaste use more important
 - Professional fluoride applications more valuable
 - Possibly worth discussing supplements with a dentist
@@ -193,6 +195,7 @@ This is where the fluoride controversy matters most. Children's developing teeth
 ### The Swallowing Problem
 
 Young children often swallow toothpaste instead of spitting it. This is why:
+
 - Use only a rice grain/smear amount until age 3
 - Use pea-sized amount ages 3-6
 - Teach spitting early
@@ -243,6 +246,7 @@ The habits established in childhood tend to persist. A child who grows up brushi
 ## When to See a Specialist
 
 **Pediatric dentists** specialize in children's oral health. Consider them for:
+
 - First dental visit
 - Children with anxiety about dentists
 - Children with special needs

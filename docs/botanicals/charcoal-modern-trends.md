@@ -35,12 +35,14 @@ A 2017 systematic review in the *Journal of the American Dental Association* exa
 > "There is insufficient clinical and laboratory data to substantiate the safety and efficacy claims of charcoal and charcoal-based dentifrices."
 
 The authors found:
+
 - **No controlled clinical trials** demonstrating whitening efficacy
 - **No studies** examining long-term safety
 - **Concern about abrasivity** damaging enamel
 - **Potential interference** with fluoride (charcoal may adsorb the fluoride from toothpaste, negating its benefit)
 
 A 2019 study in the *British Dental Journal* tested five charcoal toothpastes and found:
+
 - High variability in charcoal content
 - Several products had abrasivity levels high enough to damage enamel with regular use
 - No evidence of superior stain removal compared to conventional toothpastes
@@ -63,6 +65,7 @@ The dramatic visual of black paste and the "natural" marketing may lead people t
 **Activated charcoal toothpaste is not recommended.** The evidence for benefit is absent, the evidence for potential harm is concerning, and the marketing preys on the understandable desire for "natural" solutions without delivering substantive value.
 
 If you want whiter teeth, there are safer approaches:
+
 - Reduce staining substances (coffee, tea, wine, tobacco)
 - Brush with standard toothpaste after consuming them
 - Peroxide-based whitening (has actual evidence, though different safety considerations)
@@ -81,6 +84,7 @@ The popularity of coconut oil in oral care has two distinct manifestations: oil 
 ### The Claims
 
 Coconut oil toothpaste proponents argue:
+
 - Lauric acid provides antimicrobial protection
 - The oil base is gentler than detergent-based conventional pastes
 - "Chemical-free" (a meaningless term—everything is chemicals)
@@ -95,6 +99,7 @@ Coconut oil toothpaste proponents argue:
 If you're in a category where fluoride is particularly important (high caries risk, children with developing teeth, dry mouth), substituting coconut oil toothpaste for fluoride toothpaste may increase your cavity risk.
 
 **DIY formulations vary wildly.** The internet is full of recipes for homemade coconut oil toothpaste, typically combining:
+
 - Coconut oil
 - Baking soda
 - Essential oils (peppermint, etc.)
@@ -141,6 +146,7 @@ Many consumers seeking "natural" toothpaste are specifically avoiding fluoride, 
 I want to be clear: **fluoride is the single most evidence-supported intervention for caries prevention.** Topical fluoride (in toothpaste) has an excellent safety profile and strong efficacy data. The concerns about fluoride toxicity apply to systemic ingestion, not topical oral use in adults.
 
 If you choose a fluoride-free "natural" toothpaste, you should:
+
 - Have another source of topical fluoride (rinse, professional application)
 - OR accept increased caries risk
 - OR be in a genuinely low-risk category (excellent diet, robust saliva, no history of caries, using n-HAp as alternative)
@@ -172,6 +178,7 @@ Translating microbiome science into effective consumer products is much harder t
 **Be skeptical of microbiome marketing; the science is outpacing the products.** The ecological approach to oral care doesn't require buying expensive new products—it requires understanding your mouth and using simple tools wisely.
 
 The best "microbiome-friendly" oral care is what we've already discussed:
+
 - Avoid antiseptic mouthwashes for routine use
 - Use gentle, pH-supportive rinses
 - Include arginine if you want prebiotic benefit

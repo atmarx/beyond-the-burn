@@ -21,12 +21,14 @@ The primary culprits are **volatile sulfur compounds (VSCs)**:
 | **Dimethyl sulfide** | Fishy, gasoline | Bacterial and systemic sources |
 
 These compounds are produced when anaerobic bacteria break down sulfur-containing amino acids (cysteine and methionine), found abundantly in:
+
 - Food debris
 - Shed epithelial cells
 - Blood (from gingivitis)
 - Saliva proteins
 
 Additional malodorous compounds include:
+
 - **Cadaverine and putrescine:** Bacterial breakdown of lysine and ornithine; smell of decay
 - **Indole and skatole:** Bacterial tryptophan metabolism; fecal odor
 
@@ -59,6 +61,7 @@ Breath quality, like so much else in the mouth, is an ecological phenomenon. The
 ### Healthy Ecology = Better Breath
 
 In a healthy oral ecosystem:
+
 - Aerobic and facultatively anaerobic bacteria dominate
 - Lower populations of the VSC-producing gram-negative anaerobes
 - Less accumulated substrate (better salivary flow, regular cleaning)
@@ -154,7 +157,8 @@ You cannot rinse away the smell from a periodontal pocket.
 
 ### 4. pH Management
 
-Alkaline conditions are less favorable for VSC production. Your salt/baking soda rinse:
+Alkaline conditions are less favorable for VSC production. The salt/baking soda rinse:
+
 - Raises oral pH
 - Creates less hospitable environment for VSC-producers
 - The salt provides osmotic stress on anaerobes
@@ -182,6 +186,7 @@ Zinc ions bind strongly to sulfur compounds, neutralizing VSCs:
 ### 7. Green Tea
 
 EGCG in green tea has deodorizing effects:
+
 - Binds volatile sulfur compounds
 - Modestly antimicrobial against VSC-producers
 - Pleasant and health-positive
@@ -209,6 +214,7 @@ The complex topography means the tongue has a surface area far larger than its a
 ### The Tongue Coating
 
 The whitish or yellowish coating visible on many people's tongues is a biofilm containing:
+
 - Bacteria (billions per square centimeter)
 - Shed epithelial cells
 - Food debris
@@ -216,6 +222,7 @@ The whitish or yellowish coating visible on many people's tongues is a biofilm c
 - Salivary components
 
 In health, this coating is thin and the tongue appears pinkish with visible papillae. Thick coating is associated with:
+
 - Reduced mechanical cleaning (soft diet, poor oral hygiene)
 - Dry mouth
 - Smoking

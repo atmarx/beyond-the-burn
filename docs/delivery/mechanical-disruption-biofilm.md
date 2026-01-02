@@ -43,6 +43,7 @@ The toothbrush—whether manual or powered—is still the foundation of mechanic
 Most people brush for about 45 seconds.[^2] Dental recommendations call for 2 minutes minimum. This isn't arbitrary—it takes time to access all surfaces adequately.
 
 Pressing harder doesn't compensate for rushing. In fact, aggressive brushing can:
+
 - Cause gum recession
 - Wear away enamel at the gumline (abrasion lesions)
 - Miss areas entirely while focusing too intensely on others

@@ -12,6 +12,7 @@
 This is a ~70,000-word book exploring oral health from an ecological perspective—treating the mouth as an ecosystem to nurture rather than a battlefield to sterilize. Written in the voice of a weary, ancient Tooth Fairy who has collected far too many teeth and would very much like humans to keep theirs.
 
 The book synthesizes research across:
+
 - **Biochemistry** — Enamel structure, remineralization, pH dynamics
 - **Microbiology** — The oral microbiome, biofilm ecology, beneficial bacteria
 - **Botany** — Traditional plant remedies with modern evidence (miswak, propolis, sage, etc.)

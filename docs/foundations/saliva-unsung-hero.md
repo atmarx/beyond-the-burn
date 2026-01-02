@@ -135,6 +135,7 @@ Xylitol-sweetened gum is particularly valuable. Xylitol is a sugar alcohol that 
 I've already mentioned this, but it deserves emphasis: **nighttime is when your teeth are most vulnerable.**
 
 During sleep:
+
 - Saliva production drops by 80-90%[^8]
 - Bicarbonate concentration decreases
 - Swallowing frequency drops, so what saliva is produced pools rather than circulating

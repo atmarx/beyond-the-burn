@@ -91,6 +91,7 @@ Less familiar in the West, galangal is a ginger relative used extensively in Sou
 ### Compounds and Effects
 
 Galangal contains:
+
 - **1'-Acetoxychavicol acetate (ACA):** A potent antimicrobial and anti-inflammatory compound
 - **Galangin:** A flavonoid with antioxidant and antimicrobial properties
 - **Various terpenes and phenolics**
@@ -110,6 +111,7 @@ What these roots share, beyond their botanical family, is a "warming" quality re
 Modern chemistry validates this: the pungent compounds in these rhizomes activate TRP channels (particularly TRPV1 and TRPA1), creating sensations of warmth and stimulating blood flow to tissues.[^4] They genuinely do increase local circulation when applied topically.
 
 For oral health, this may translate to:
+
 - Improved nutrient delivery to gum tissue
 - Enhanced immune cell access to sites of infection
 - Accelerated wound healing

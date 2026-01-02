@@ -56,6 +56,7 @@ manuscript/
 ```
 
 Each part folder contains:
+
 - `00-part-intro.md` — Brief part introduction
 - `01-chapter-name.md`, `02-chapter-name.md`, etc. — Chapters in order
 
@@ -160,6 +161,7 @@ Most chapters follow this pattern:
 File: `manuscript/10-appendices/01-appendix-a-formulations.md`
 
 Contains practical recipes. When updating:
+
 - Keep measurements precise
 - Include safety warnings
 - Note shelf life
@@ -170,6 +172,7 @@ Contains practical recipes. When updating:
 File: `manuscript/10-appendices/02-appendix-b-glossary.md`
 
 Alphabetical entries. Each entry should include:
+
 - What it is
 - How it works (mechanism)
 - Evidence level
