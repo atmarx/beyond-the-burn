@@ -42,6 +42,7 @@ theme:
     - content.tabs.link
     - content.code.copy
     - content.code.annotate
+    - content.footnote.tooltips
   
   icon:
     logo: material/tooth
