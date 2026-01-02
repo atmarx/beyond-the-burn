@@ -6,7 +6,7 @@ Let me walk you through the most promising developments.
 
 ## CPP-ACP: Milk Proteins for Your Teeth
 
-One of the more elegant remineralization technologies emerged from an unexpected source: milk. Specifically, a protein fragment derived from casein—the primary protein in dairy.
+One of the more elegant remineralization technologies emerged from an unexpected source: milk.[^1] Specifically, a protein fragment derived from casein—the primary protein in dairy.
 
 ### The Science
 
@@ -36,7 +36,7 @@ The combination product is particularly interesting: fluoride for acid resistanc
 
 Multiple clinical trials support CPP-ACP:
 
-**White spot lesion remineralization:** A 2008 study in *Caries Research* showed significantly better remineralization of white spots in orthodontic patients using MI Paste compared to placebo.
+**White spot lesion remineralization:** A 2008 study in *Caries Research* showed significantly better remineralization of white spots in orthodontic patients using MI Paste compared to placebo.[^2]
 
 **Caries prevention:** Mixed results. Some studies show benefit; others don't. The evidence isn't as strong as for fluoride, but the mechanism is sound.
 
@@ -66,7 +66,7 @@ CPP-ACP is particularly valuable for:
 
 ## Bioactive Glasses: Controlled Mineral Release
 
-In 1969, Larry Hench at the University of Florida was trying to develop materials for implants when he accidentally created a glass that bonded to bone. That discovery led to **Bioglass**, and eventually to bioactive glasses for dental use.
+In 1969, Larry Hench at the University of Florida was trying to develop materials for implants when he accidentally created a glass that bonded to bone.[^3] That discovery led to **Bioglass**, and eventually to bioactive glasses for dental use.
 
 ### The Chemistry
 
@@ -129,7 +129,7 @@ The ammonia (NH₃) produced raises plaque pH, counteracting acid from sugar-fer
 
 **Colgate's "Sugar Acid Neutralizer"** technology contains 1.5% arginine + calcium carbonate + fluoride.
 
-Several studies show:
+Several studies show:[^4]
 
 - Reduced demineralization in acid challenge models
 - Actual caries reduction in clinical trials
@@ -203,7 +203,7 @@ We discussed oral probiotics in the botanical section. From a technology perspec
 
 ### Future Directions
 
-**Engineered probiotics:** Genetically modified bacteria designed to outcompete pathogens without producing acid. The SMaRT Replacement Therapy (*S. mutans* that can't make lactic acid) has been in development for 20+ years and may eventually reach market.
+**Engineered probiotics:** Genetically modified bacteria designed to outcompete pathogens without producing acid. The SMaRT Replacement Therapy (*S. mutans* that can't make lactic acid) has been in development for 20+ years and may eventually reach market.[^5]
 
 **Synbiotic approaches:** Combining probiotics with prebiotics (like arginine) to give beneficial bacteria a competitive advantage.
 
@@ -240,3 +240,13 @@ I find this genuinely hopeful. After millennia of watching humans lose teeth tha
 It can't happen soon enough. I'm tired. But for the first time in centuries, I think retirement might actually be possible.
 
 ---
+
+[^1]: Reynolds, E. C. (1997). Remineralization of enamel subsurface lesions by casein phosphopeptide-stabilized calcium phosphate solutions. *Journal of Dental Research*, 76(9), 1587-1595.
+
+[^2]: Andersson, A., et al. (2007). Effect of a dental cream containing amorphous cream phosphate complexes on white spot lesion regression assessed by laser fluorescence. *Caries Research*, 41(4), 268-273.
+
+[^3]: [Bioglass](https://en.wikipedia.org/wiki/Bioglass) — Wikipedia. Larry Hench discovered the first bioactive glass at the University of Florida in 1969.
+
+[^4]: Kraivaphan, P., et al. (2013). Two-year caries clinical study of the efficacy of novel dentifrices containing 1.5% arginine. *Caries Research*, 47(6), 582-590.
+
+[^5]: Hillman, J. D., et al. (2007). Genetically modified *Streptococcus mutans* for the prevention of dental caries. *Antonie van Leeuwenhoek*, 82(1), 361-366.

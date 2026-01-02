@@ -8,7 +8,7 @@ The good news: the science of halitosis is well-understood, the causes are usual
 
 ## What Causes Bad Breath?
 
-In approximately 85-90% of cases, the origin is **oral**—not stomach, not systemic, not something you ate (except temporarily). The cause is bacteria producing volatile compounds.
+In approximately 85-90% of cases, the origin is **oral**—not stomach, not systemic, not something you ate (except temporarily).[^1] The cause is bacteria producing volatile compounds.
 
 ### The Chemistry of Oral Malodor
 
@@ -118,7 +118,7 @@ Based on everything we've discussed throughout this book, here's how to manage b
 
 Since the tongue dorsum is the primary source in most halitosis cases, physical removal of the tongue coating is remarkably effective.
 
-**Tongue scrapers:** Purpose-built tools (plastic or metal) that gently remove the biofilm from the tongue surface. Studies show 70-75% reduction in VSC levels with tongue scraping.
+**Tongue scrapers:** Purpose-built tools (plastic or metal) that gently remove the biofilm from the tongue surface. Studies show 70-75% reduction in VSC levels with tongue scraping.[^2]
 
 **Technique:**
 - Extend tongue fully
@@ -167,7 +167,7 @@ This is ecological breath management—modifying the environment rather than att
 
 ### 5. Probiotics for Breath
 
-*Streptococcus salivarius* K12 was originally studied for its effects on bad breath before being explored for general oral health:
+*Streptococcus salivarius* K12 was originally studied for its effects on bad breath before being explored for general oral health:[^3]
 
 - Produces bacteriocins that inhibit odor-producing bacteria
 - Colonizes the tongue surface and soft tissues
@@ -283,3 +283,9 @@ And honestly? People who take genuine care of their oral health rarely have brea
 The fresh breath you want comes from the same healthy oral ecosystem that protects your teeth and gums. It's all connected.
 
 ---
+
+[^1]: [Halitosis](https://en.wikipedia.org/wiki/Halitosis) — Wikipedia. The majority of halitosis cases (85-90%) originate from the oral cavity, primarily the tongue dorsum.
+
+[^2]: Outhouse, T. L., et al. (2006). A Cochrane systematic review finds tongue scrapers have short-term efficacy in controlling halitosis. *General Dentistry*, 54(5), 352-359.
+
+[^3]: Burton, J. P., et al. (2006). A preliminary study of the effect of probiotic *Streptococcus salivarius* K12 on oral malodour parameters. *Journal of Applied Microbiology*, 100(4), 754-764.

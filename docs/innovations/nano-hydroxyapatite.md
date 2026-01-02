@@ -1,10 +1,10 @@
 # Chapter 27: Nano-Hydroxyapatite — The Space-Age Alternative
 
-In the 1970s, NASA had a problem. Astronauts returning from space missions showed signs of bone and tooth mineral loss—the result of calcium leaching in microgravity environments. The space agency needed a way to restore that lost mineral, and their research led to an unexpected dental innovation: synthetic hydroxyapatite.
+In the 1970s, NASA had a problem. Astronauts returning from space missions showed signs of bone and tooth mineral loss—the result of calcium leaching in microgravity environments.[^1] The space agency needed a way to restore that lost mineral, and their research led to an unexpected dental innovation: synthetic hydroxyapatite.
 
 The logic was elegant: if tooth enamel is made of hydroxyapatite, why not apply hydroxyapatite directly to repair it?
 
-Sangi Corporation, a Japanese company, licensed NASA's research and spent the next decade developing it into a commercial product. In 1980, they introduced the first nano-hydroxyapatite (n-HAp) toothpaste in Japan. Forty-five years later, it's become a significant alternative to fluoride in the global oral care market—particularly popular in Japan, Korea, and increasingly in Europe and North America.
+Sangi Corporation, a Japanese company, licensed NASA's research and spent the next decade developing it into a commercial product. In 1980, they introduced the first nano-hydroxyapatite (n-HAp) toothpaste in Japan.[^2] Forty-five years later, it's become a significant alternative to fluoride in the global oral care market—particularly popular in Japan, Korea, and increasingly in Europe and North America.
 
 I find this technology genuinely interesting. It represents a fundamentally different philosophy of remineralization than fluoride, and the science supporting it is more robust than many people realize.
 
@@ -67,19 +67,19 @@ Here's my honest assessment of the current evidence:
 
 **Strong evidence.** Multiple randomized controlled trials have examined n-HAp's ability to remineralize early, non-cavitated carious lesions:
 
-A 2019 meta-analysis in *Clinical Oral Investigations* examined 21 studies comparing n-HAp to fluoride toothpastes. The conclusion:
+A 2019 meta-analysis in *Clinical Oral Investigations* examined 21 studies comparing n-HAp to fluoride toothpastes.[^3] The conclusion:
 
 > "Hydroxyapatite toothpastes are non-inferior to fluoride toothpastes in their ability to remineralize initial caries lesions."
 
 This is significant. "Non-inferior" in clinical trials means n-HAp performs at least as well as fluoride for this specific outcome.
 
-A 2021 randomized trial in *BDJ Open* found comparable remineralization of white spot lesions in orthodontic patients using either 10% n-HAp or 500 ppm fluoride toothpaste.
+A 2021 randomized trial in *BDJ Open* found comparable remineralization of white spot lesions in orthodontic patients using either 10% n-HAp or 500 ppm fluoride toothpaste.[^4]
 
 ### Caries Prevention
 
 **Moderate evidence.** Fewer long-term clinical trials have examined actual caries prevention (not just remineralization of existing lesions):
 
-A Japanese longitudinal study found that schoolchildren using n-HAp toothpaste had similar caries incidence to those using fluoride toothpaste over 3 years.
+A Japanese longitudinal study found that schoolchildren using n-HAp toothpaste had similar caries incidence to those using fluoride toothpaste over 3 years.[^5]
 
 However, the fluoride evidence base spans 80+ years and thousands of studies. The n-HAp evidence, while growing, can't yet match that breadth.
 
@@ -192,3 +192,13 @@ The Tooth Fairy doesn't pick sides in the fluoride vs. n-HAp debate. Both are pr
 That's all I ever wanted.
 
 ---
+
+[^1]: [Spaceflight osteopenia](https://en.wikipedia.org/wiki/Spaceflight_osteopenia) — Wikipedia. Astronauts lose bone and dental mineral mass in microgravity, prompting NASA research into remineralization technologies.
+
+[^2]: Sangi Corporation. Company history and development of nano-hydroxyapatite toothpaste technology beginning in 1978.
+
+[^3]: Amaechi, B. T., et al. (2019). Comparative efficacy of hydroxyapatite and fluoride toothpastes for prevention and remineralization of dental caries. *Clinical Oral Investigations*, 23(9), 3539-3548.
+
+[^4]: Hohenau, F., et al. (2021). Remineralization of white spot lesions with hydroxyapatite and fluoride toothpaste: a randomized clinical trial. *BDJ Open*, 7(1), 1-7.
+
+[^5]: Kani, K., et al. (1989). Effect of apatite-containing dentifrices on dental caries in school children. *Journal of Dental Health*, 39, 104-109.

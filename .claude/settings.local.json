@@ -68,7 +68,14 @@
       "Bash(do)",
       "Bash(if [ -f \"docs/$file\" ])",
       "Bash(then echo \"✓ $file\")",
-      "Bash(else echo \"✗ MISSING: $file\")"
+      "Bash(else echo \"✗ MISSING: $file\")",
+      "Bash(for file in /home/xram/Documents/beyond-the-burn/docs/*/*.md)",
+      "Bash(if [ -f \"$file\" ])",
+      "Bash(! grep -q \"\\\\[\\\\^\" \"$file\")",
+      "Bash(then)",
+      "Bash(basename:*)",
+      "Bash(ls:*)",
+      "Bash(grep:*)"
     ]
   }
 }

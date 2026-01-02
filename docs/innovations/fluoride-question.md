@@ -1,6 +1,6 @@
 # Chapter 26: The Fluoride Question
 
-No topic in oral health generates more controversy than fluoride. I've watched the debates rage since Frederick McKay first noticed that children in Colorado Springs had strangely mottled—but remarkably cavity-free—teeth in the early 20th century. That observation led to the discovery of fluoride's effects, and eventually to one of the most successful public health interventions in human history.
+No topic in oral health generates more controversy than fluoride. I've watched the debates rage since Frederick McKay first noticed that children in Colorado Springs had strangely mottled—but remarkably cavity-free—teeth in the early 20th century.[^1] That observation led to the discovery of fluoride's effects, and eventually to one of the most successful public health interventions in human history.
 
 And yet, here we are, with substantial segments of the population convinced that fluoride is a poison, a mind-control agent, or at minimum an unnecessary intervention. Let me cut through the noise and explain what fluoride actually does, what the evidence actually shows, and where legitimate concerns exist versus manufactured controversy.
 
@@ -56,7 +56,7 @@ The evidence base for fluoride is vast—thousands of studies over 80+ years. He
 
 ### Water Fluoridation
 
-Community water fluoridation at 0.7 ppm (the current US recommendation) reduces caries by approximately:
+Community water fluoridation at 0.7 ppm (the current US recommendation) reduces caries by approximately:[^2]
 
 - **25% in children** (primary teeth)
 - **27% in children** (permanent teeth)
@@ -68,7 +68,7 @@ These figures come from systematic reviews including Cochrane reviews, which are
 
 Toothpastes containing 1000-1500 ppm fluoride reduce caries by approximately:
 
-- **24% compared to non-fluoride toothpaste** (Cochrane review of 79 trials, 73,000 children)
+- **24% compared to non-fluoride toothpaste** (Cochrane review of 79 trials, 73,000 children)[^3]
 - Effects are dose-dependent: higher concentrations (within recommended limits) provide more protection
 - Effects are enhanced by not rinsing with water after brushing
 
@@ -126,7 +126,7 @@ Some studies, primarily from China, have reported associations between high fluo
 - Poorly controlled for confounding factors (arsenic, iodine deficiency, socioeconomic status)
 - Cross-sectional designs that can't establish causation
 
-A 2020 National Toxicology Program review concluded that the evidence for cognitive effects at water fluoridation levels is "low to moderate" and further research is needed. The highest-quality studies generally don't show effects at typical exposure levels.
+A 2020 National Toxicology Program review concluded that the evidence for cognitive effects at water fluoridation levels is "low to moderate" and further research is needed.[^4] The highest-quality studies generally don't show effects at typical exposure levels.
 
 **My position:** More research is warranted, but the current evidence does not support rejecting fluoride at recommended levels. The proven benefit (caries reduction) is weighed against theoretical, unconfirmed risk.
 
@@ -146,7 +146,7 @@ After brushing with fluoride toothpaste, **do not rinse with water**.
 
 The traditional sequence—brush, spit, rinse, done—actually washes away the fluoride before it can fully benefit your teeth. The fluoride needs *contact time* with enamel to incorporate into the mineral phase.
 
-The updated recommendation from many dental organizations (including the UK's National Health Service):
+The updated recommendation from many dental organizations (including the UK's National Health Service):[^5]
 
 1. Brush with fluoride toothpaste for 2 minutes
 2. Spit out excess toothpaste
@@ -193,3 +193,13 @@ If you're using fluoride toothpaste twice daily, not rinsing, and maintaining th
 I've seen too many teeth lost to preventable decay. Fluoride has prevented millions of those losses. That's not marketing—that's observation across decades.
 
 ---
+
+[^1]: [History of water fluoridation](https://en.wikipedia.org/wiki/History_of_water_fluoridation) — Wikipedia. Frederick McKay's observations in Colorado Springs beginning in 1901 eventually led to the discovery of fluoride's role in caries prevention.
+
+[^2]: McDonagh, M. S., et al. (2000). Systematic review of water fluoridation. *BMJ*, 321(7265), 855-859.
+
+[^3]: Marinho, V. C., et al. (2003). Fluoride toothpastes for preventing dental caries in children and adolescents. *Cochrane Database of Systematic Reviews*, (1). CD002278.
+
+[^4]: National Toxicology Program. (2020). Systematic Review of Fluoride Exposure and Neurodevelopmental and Cognitive Health Effects. U.S. Department of Health and Human Services.
+
+[^5]: Public Health England. (2017). Delivering better oral health: an evidence-based toolkit for prevention. Recommends "spit, don't rinse" after brushing.

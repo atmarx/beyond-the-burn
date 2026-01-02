@@ -93,7 +93,7 @@ Usually no special intervention needed. If you've been sipping acidic drinks all
 - If you'll be going to bed within 2 hours of dinner, your evening routine should come soon
 - If dinner will be followed by hours of evening activity, you might rinse after dinner and do full routine closer to bed
 
-**The cheese trick:** Ending a meal with a small piece of cheese has genuine evidence behind it:
+**The cheese trick:** Ending a meal with a small piece of cheese has genuine evidence behind it:[^1]
 
 - Casein protein adheres to enamel and provides some protection
 - High calcium and phosphate content supports remineralization
@@ -194,3 +194,5 @@ That's it. Do those five things consistently and you'll probably be fine. Everyt
 The Tooth Fairy doesn't ask for perfection. I ask for consistency. Your teeth forgive occasional lapses; they don't forgive habitual neglect.
 
 ---
+
+[^1]: Telgi, R. L., et al. (2013). The effect of cheese on dental caries prevention: A systematic review. *Journal of Clinical and Diagnostic Research*, 7(7), 1498-1501.

@@ -50,8 +50,8 @@ The link between periodontitis and cardiovascular disease is the most studied an
 
 Multiple large cohort studies have found associations:
 
-- A 2003 meta-analysis found that periodontal disease was associated with a **19% increased risk** of cardiovascular disease
-- A 2016 study in *Hypertension* found that periodontitis was associated with a **20% increase** in hypertension risk
+- A 2003 meta-analysis found that periodontal disease was associated with a **19% increased risk** of cardiovascular disease[^1]
+- A 2016 study in *Hypertension* found that periodontitis was associated with a **20% increase** in hypertension risk[^2]
 - Tooth loss (a proxy for past periodontal disease) is associated with increased stroke risk
 
 These are associations, not proven causation. But the consistency across studies, populations, and methodologies is striking.
@@ -75,7 +75,7 @@ These are associations, not proven causation. But the consistency across studies
 **The mouthwash-blood pressure connection:**
 - Remember the nitrate-reducing bacteria we discussed? They convert dietary nitrate to nitrite, which becomes nitric oxide—a vasodilator
 - Antiseptic mouthwash kills these bacteria
-- Studies show that regular antiseptic mouthwash use is associated with *higher blood pressure*
+- Studies show that regular antiseptic mouthwash use is associated with *higher blood pressure*[^3]
 - One more reason to prefer ecological oral care
 
 ### The Intervention Studies
@@ -116,7 +116,7 @@ This is the more surprising direction:
 - The inflammatory burden may contribute to insulin resistance
 - Treating periodontitis has been shown to modestly improve HbA1c in some studies
 
-A meta-analysis in *Diabetes Care* found that periodontal treatment reduced HbA1c by approximately 0.4%—a modest but clinically meaningful improvement comparable to adding a second diabetes medication.
+A meta-analysis in *Diabetes Care* found that periodontal treatment reduced HbA1c by approximately 0.4%—a modest but clinically meaningful improvement comparable to adding a second diabetes medication.[^4]
 
 ### The Practical Implication
 
@@ -167,7 +167,7 @@ This is a newer and more tentative area of research, but the findings are intrig
 - P. gingivalis DNA in brain tissue of Alzheimer's patients
 - Animal studies showing that P. gingivalis infection produces Alzheimer's-like changes
 
-A pharmaceutical company (Cortexyme) has developed gingipain inhibitors as potential Alzheimer's treatments. Early trials showed promising results in reducing cognitive decline, though more research is needed.
+A pharmaceutical company (Cortexyme) has developed gingipain inhibitors as potential Alzheimer's treatments.[^5] Early trials showed promising results in reducing cognitive decline, though more research is needed.
 
 ### Cautions
 
@@ -227,3 +227,13 @@ Your mouth is a window into systemic health and a lever that affects it. Taking 
 That's why I've been trying so hard to get you to listen.
 
 ---
+
+[^1]: Janket, S. J., et al. (2003). Meta-analysis of periodontal disease and risk of coronary heart disease and stroke. *Oral Surgery, Oral Medicine, Oral Pathology, Oral Radiology, and Endodontology*, 95(5), 559-569.
+
+[^2]: Muñoz Aguilera, E., et al. (2021). Periodontitis is associated with hypertension: a systematic review and meta-analysis. *Cardiovascular Research*, 116(1), 28-39.
+
+[^3]: Joshipura, K., et al. (2017). Over-the-counter mouthwash use and risk of pre-diabetes/diabetes. *Nitric Oxide*, 71, 14-20.
+
+[^4]: Simpson, T. C., et al. (2015). Treatment of periodontal disease for glycaemic control in people with diabetes mellitus. *Cochrane Database of Systematic Reviews*, (11). CD004714.
+
+[^5]: Dominy, S. S., et al. (2019). *Porphyromonas gingivalis* in Alzheimer's disease brains: Evidence for disease causation and treatment with small-molecule inhibitors. *Science Advances*, 5(1), eaau3333.

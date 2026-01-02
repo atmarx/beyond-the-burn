@@ -8,7 +8,7 @@ Get childhood oral care right, and you set a human up for a lifetime of healthy 
 
 ### Developing Enamel
 
-When permanent teeth first erupt, their enamel is immature—less mineralized, more porous, more susceptible to acid attack. It takes 2-3 years after eruption for enamel to fully mature through post-eruptive maturation (continued mineralization from saliva and fluoride exposure).
+When permanent teeth first erupt, their enamel is immature—less mineralized, more porous, more susceptible to acid attack. It takes 2-3 years after eruption for enamel to fully mature through post-eruptive maturation (continued mineralization from saliva and fluoride exposure).[^1]
 
 This means newly erupted permanent teeth are at *higher* caries risk than mature adult enamel. The 6-year molars, 12-year molars, and other permanent teeth are most vulnerable right after they appear.
 
@@ -75,7 +75,7 @@ Primary teeth matter because:
 - Avoid sticky candies
 
 **First dental visit:**
-- By age 1 or within 6 months of first tooth (AAP/AAPD recommendation)
+- By age 1 or within 6 months of first tooth (AAP/AAPD recommendation)[^2]
 - Establishes dental home, identifies risk factors early
 
 ### Preschool (3-6 years)
@@ -118,7 +118,7 @@ Primary teeth matter because:
 **Sealants:**
 - Dental sealants are plastic coatings applied to chewing surfaces of molars
 - They fill the deep grooves where bacteria hide and brushing can't reach
-- Highly effective caries prevention (80%+ reduction in treated surfaces)
+- Highly effective caries prevention (80%+ reduction in treated surfaces)[^3]
 - Should be applied soon after molar eruption (6-year and 12-year molars)
 - I *strongly* recommend sealants—one of the most effective preventive interventions available
 
@@ -280,3 +280,9 @@ Your children's teeth are my future workload—or not. The habits you establish 
 I'd rather be unemployed. Help me out here.
 
 ---
+
+[^1]: [Tooth enamel](https://en.wikipedia.org/wiki/Tooth_enamel) — Wikipedia. Post-eruptive maturation continues for 2-3 years after tooth eruption, making newly erupted teeth more caries-susceptible.
+
+[^2]: American Academy of Pediatric Dentistry. (2021). Periodicity of examination, preventive dental services, anticipatory guidance/counseling, and oral treatment for infants, children, and adolescents. *The Reference Manual of Pediatric Dentistry*.
+
+[^3]: Ahovuo-Saloranta, A., et al. (2017). Pit and fissure sealants for preventing dental decay in permanent teeth. *Cochrane Database of Systematic Reviews*, (7). CD001830.

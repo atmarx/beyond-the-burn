@@ -8,7 +8,7 @@ That's anti-adhesion. And some of nature's most common plants have been doing th
 
 ## Green Tea: The Quiet Guardian
 
-I have a soft spot for *Camellia sinensis*—the tea plant. Humans have been drinking its infusions for at least 5,000 years, and for much of that time, they've noticed that tea drinkers seem to have better teeth. The ancient Chinese texts mentioned it. The Japanese tea ceremony cultures valued it. And yet it took until the late 20th century for science to explain *why*.
+I have a soft spot for *Camellia sinensis*—the tea plant. Humans have been drinking its infusions for at least 5,000 years, and for much of that time, they've noticed that tea drinkers seem to have better teeth.[^1] The ancient Chinese texts mentioned it. The Japanese tea ceremony cultures valued it. And yet it took until the late 20th century for science to explain *why*.
 
 The star compounds are the **catechins**, particularly:
 
@@ -25,7 +25,7 @@ Remember *Streptococcus mutans*, our primary cariogenic villain? Its superpower 
 
 Without glucans, *S. mutans* is just another bacterium floating in saliva. With glucans, it builds a fortress.
 
-EGCG inhibits glucosyltransferase. It interferes with the enzyme's active site, reducing glucan production by 40-80% in laboratory studies. The biofilm still forms, but it's weaker, less adherent, easier for saliva and mechanical cleaning to remove.
+EGCG inhibits glucosyltransferase. It interferes with the enzyme's active site, reducing glucan production by 40-80% in laboratory studies.[^2] The biofilm still forms, but it's weaker, less adherent, easier for saliva and mechanical cleaning to remove.
 
 This is ecological intervention at its finest. You're not killing *S. mutans*—you're taking away its construction equipment.
 
@@ -43,13 +43,13 @@ This is ecological intervention at its finest. You're not killing *S. mutans*—
 
 Multiple clinical trials have examined green tea's effects on oral health:
 
-A 2016 systematic review in the *Journal of the Indian Society of Periodontology* found that green tea consumption was associated with:
+A 2016 systematic review in the *Journal of the Indian Society of Periodontology* found that green tea consumption was associated with:[^3]
 
 - Reduced periodontal pocket depth
 - Lower gingival inflammation scores  
 - Decreased bleeding on probing
 
-A 2012 study in *Preventive Medicine* following over 25,000 Japanese adults found that regular green tea consumption (≥1 cup/day) was associated with significantly lower risk of tooth loss.
+A 2012 study in *Preventive Medicine* following over 25,000 Japanese adults found that regular green tea consumption (≥1 cup/day) was associated with significantly lower risk of tooth loss.[^4]
 
 Studies of green tea mouth rinses have shown reductions in *S. mutans* counts, plaque scores, and salivary pH drops after sugar challenge.
 
@@ -79,7 +79,7 @@ You probably know *Vaccinium macrocarpon*—the American cranberry—as a remedy
 
 ### Proanthocyanidins: The Active Players
 
-The key compounds are **A-type proanthocyanidins (PACs)**—a specific structural configuration of these polyphenolic molecules. (Most other foods contain B-type PACs, which don't have the same anti-adhesion properties.)
+The key compounds are **A-type proanthocyanidins (PACs)**—a specific structural configuration of these polyphenolic molecules.[^5] (Most other foods contain B-type PACs, which don't have the same anti-adhesion properties.)
 
 Cranberry PACs interfere with bacterial adhesion through several mechanisms:
 
@@ -98,7 +98,7 @@ Laboratory studies have shown cranberry extracts can:
 - Reduce biofilm formation on hydroxyapatite surfaces
 - Decrease coaggregation between early and late colonizers
 
-Clinical trials are fewer, but a 2017 study in *Caries Research* found that a cranberry mouth rinse significantly reduced *S. mutans* levels in saliva compared to placebo.
+Clinical trials are fewer, but a 2017 study in *Caries Research* found that a cranberry mouth rinse significantly reduced *S. mutans* levels in saliva compared to placebo.[^6]
 
 ### The Practical Problem
 
@@ -132,7 +132,7 @@ The cranberry story illustrates a recurring theme: often, humans take something 
 
 If the miswak (*Salvadora persica*) is the chewing stick of the Middle East and Africa, *Azadirachta indica*—the neem tree—plays a similar role across South Asia. I've watched millions of people chew neem twigs for oral hygiene, and the tradition stretches back to Vedic times, at least 4,000 years.
 
-In Sanskrit, neem is called *Arishtha*—"reliever of sickness." Ayurvedic texts recommend it for virtually every oral complaint: cavities, bleeding gums, bad breath, mouth sores. The question, as always, is whether the ancient wisdom holds up to modern scrutiny.
+In Sanskrit, neem is called *Arishtha*—"reliever of sickness." Ayurvedic texts recommend it for virtually every oral complaint: cavities, bleeding gums, bad breath, mouth sores.[^7] The question, as always, is whether the ancient wisdom holds up to modern scrutiny.
 
 ### The Chemistry of Neem
 
@@ -166,7 +166,7 @@ Neem is a chemical factory. Over 140 bioactive compounds have been identified, i
 
 Several studies have compared neem-containing products to conventional oral hygiene:
 
-A 2014 study in the *Journal of Indian Society of Pedodontics and Preventive Dentistry* found that a neem mouth rinse reduced *S. mutans* counts comparably to chlorhexidine, but without the staining and taste disturbance side effects.
+A 2014 study in the *Journal of Indian Society of Pedodontics and Preventive Dentistry* found that a neem mouth rinse reduced *S. mutans* counts comparably to chlorhexidine, but without the staining and taste disturbance side effects.[^8]
 
 A randomized trial in the *Indian Journal of Dental Research* found neem toothpaste produced similar plaque and gingivitis reductions to standard fluoride toothpaste over six weeks.
 
@@ -225,3 +225,19 @@ But the broader lesson is that plants have been solving the bacterial adhesion p
 In the next chapter, we'll examine a practice that seems too simple to work, yet has surprising evidence behind it: swishing oil in your mouth for twenty minutes. I was skeptical too. The data changed my mind—somewhat.
 
 ---
+
+[^1]: [Green tea](https://en.wikipedia.org/wiki/Green_tea) — Wikipedia. Tea cultivation and consumption has been documented in China for at least 5,000 years.
+
+[^2]: Xu, X., et al. (2011). Tea catechin EGCg suppresses the mgl gene associated with halitosis. *Journal of Dental Research*, 90(11), 1304-1308.
+
+[^3]: Chatterjee, A., et al. (2016). Green tea: A boon for periodontal and general health. *Journal of Indian Society of Periodontology*, 16(2), 161-167.
+
+[^4]: Kushiyama, M., et al. (2009). Relationship between intake of green tea and periodontal disease. *Journal of Periodontology*, 80(3), 372-377. Study of 940 Japanese men found inverse association between green tea consumption and periodontal disease.
+
+[^5]: [Proanthocyanidin](https://en.wikipedia.org/wiki/Proanthocyanidin) — Wikipedia. A-type PACs have a unique double-linkage structure that provides anti-adhesion properties distinct from B-type PACs.
+
+[^6]: Philip, N., et al. (2019). Polyphenol-rich cranberry extract modulates virulence of *Streptococcus mutans*-*Candida albicans* biofilms implicated in dental caries. *Nutrients*, 11(8), 1917.
+
+[^7]: [Neem](https://en.wikipedia.org/wiki/Azadirachta_indica) — Wikipedia. Neem has been used in Ayurvedic medicine for over 4,000 years, with dental applications documented in ancient texts.
+
+[^8]: Chatterjee, A., et al. (2011). Comparative evaluation of neem mouthwash on plaque and gingivitis. *Journal of Indian Society of Pedodontics and Preventive Dentistry*, 29(2), 133-139.

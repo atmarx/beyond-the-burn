@@ -26,7 +26,7 @@ If you experience any of the following, you need professional care immediately�
 
 **Fever accompanying dental pain.** A fever means your immune system is fighting a systemic battle. The infection has moved beyond the local site.
 
-**Difficulty swallowing or breathing.** Swelling in the floor of the mouth or throat can compromise your airway. This is a medical emergency. Ludwig's angina—a severe infection of the sublingual and submandibular spaces—can kill within hours.
+**Difficulty swallowing or breathing.** Swelling in the floor of the mouth or throat can compromise your airway. This is a medical emergency. Ludwig's angina—a severe infection of the sublingual and submandibular spaces—can kill within hours.[^1]
 
 **Pus discharge.** If you see or taste pus draining from your gums or a tooth, the infection is active and likely beyond what your body can control without help.
 
@@ -42,7 +42,7 @@ Some conditions have progressed beyond what preventive measures can address:
 
 **Gums that have receded significantly.** Exposed root surfaces are more vulnerable to decay and sensitivity. While some recession is manageable, severe recession may require grafting.
 
-**Persistent sores or white/red patches.** Any lesion in your mouth that doesn't heal within two weeks needs professional evaluation. Oral cancer is real, and early detection saves lives.
+**Persistent sores or white/red patches.** Any lesion in your mouth that doesn't heal within two weeks needs professional evaluation. Oral cancer is real, and early detection saves lives.[^2]
 
 **Teeth with visible holes or dark areas.** Once a cavity has broken through the enamel surface and created an actual hole, remineralization cannot rebuild it. You need a filling. Delay means the decay spreads deeper, potentially reaching the pulp and requiring root canal treatment—or extraction.
 
@@ -146,3 +146,7 @@ That's the integration I'm asking you to embrace.
 *I'm not holding my breath. But I'm hoping.*
 
 ---
+
+[^1]: [Ludwig's angina](https://en.wikipedia.org/wiki/Ludwig%27s_angina) — Wikipedia. A potentially fatal bacterial infection of the floor of the mouth, typically arising from dental infections.
+
+[^2]: American Cancer Society. (2023). Oral Cavity and Oropharyngeal Cancer Early Detection. Early detection significantly improves survival rates for oral cancers.

@@ -6,11 +6,11 @@ In this chapter, we'll explore three such substances: propolis (from bees), myrr
 
 ## Propolis: The Bee's Pharmacy
 
-Propolis is a remarkable substance. Bees collect resins from tree buds and bark, mix them with wax and their own secretions, and use the resulting material to seal their hives, coat interior surfaces, and protect against invaders—both physical and microbial.
+Propolis is a remarkable substance. Bees collect resins from tree buds and bark, mix them with wax and their own secretions, and use the resulting material to seal their hives, coat interior surfaces, and protect against invaders—both physical and microbial.[^1]
 
 A beehive is one of the most hygienic environments in nature, despite being warm, moist, and containing concentrated food sources. Propolis is a major reason why. The bees are essentially applying antimicrobial coating throughout their home.
 
-Humans noticed this long ago. Propolis has been used medicinally since ancient Egypt (it was part of mummy preservation) and appears in the medical traditions of Greece, Rome, the Middle East, and Europe.
+Humans noticed this long ago. Propolis has been used medicinally since ancient Egypt (it was part of mummy preservation) and appears in the medical traditions of Greece, Rome, the Middle East, and Europe.[^2]
 
 ### The Chemistry
 
@@ -26,7 +26,7 @@ Propolis composition varies significantly based on the botanical sources bees ha
 
 ### Mechanisms for Oral Health
 
-**Broad-spectrum antimicrobial:** Propolis is active against bacteria (gram-positive and gram-negative), fungi (*Candida* species), and even some viruses. For oral health, it has demonstrated activity against *S. mutans*, *P. gingivalis*, *Candida albicans*, and other oral pathogens.
+**Broad-spectrum antimicrobial:** Propolis is active against bacteria (gram-positive and gram-negative), fungi (*Candida* species), and even some viruses. For oral health, it has demonstrated activity against *S. mutans*, *P. gingivalis*, *Candida albicans*, and other oral pathogens.[^3]
 
 **Biofilm inhibition:** Propolis interferes with bacterial adhesion and biofilm formation—critical for preventing plaque accumulation.
 
@@ -38,7 +38,7 @@ Propolis composition varies significantly based on the botanical sources bees ha
 
 Propolis has a relatively robust evidence base for oral health:
 
-**Periodontal disease:** Multiple studies show propolis mouthwashes reduce plaque, reduce gingival inflammation, and improve periodontal probing depths. Some studies show effects comparable to chlorhexidine.
+**Periodontal disease:** Multiple studies show propolis mouthwashes reduce plaque, reduce gingival inflammation, and improve periodontal probing depths. Some studies show effects comparable to chlorhexidine.[^4]
 
 **Dental caries:** *In vitro* studies demonstrate activity against *S. mutans* and inhibition of the enzymes (*glucosyltransferases*) that produce the sticky biofilm matrix.
 
@@ -94,7 +94,7 @@ It appears in traditional European herbal formulas for oral health and is still 
 
 ### The Evidence
 
-**German Commission E:** Approved myrrh for "mild inflammations of the oral and pharyngeal mucosa." This is notable given Germany's rigorous standards.
+**German Commission E:** Approved myrrh for "mild inflammations of the oral and pharyngeal mucosa." This is notable given Germany's rigorous standards.[^5]
 
 **Antimicrobial activity:** *In vitro* studies confirm activity against oral pathogens, though generally less potent than some other botanicals like thyme or propolis.
 
@@ -132,7 +132,7 @@ In the 1980s and 1990s, sanguinarine was incorporated into commercial oral care 
 
 ### The Problem
 
-Then reports began emerging of **oral leukoplakia**—white patches in the mouth that are considered pre-cancerous lesions—in long-term users of sanguinarine products.
+Then reports began emerging of **oral leukoplakia**—white patches in the mouth that are considered pre-cancerous lesions—in long-term users of sanguinarine products.[^6]
 
 Several studies found associations:
 
@@ -188,6 +188,18 @@ Respect the potency, use them appropriately, and they can be powerful allies for
 
 For a detailed monograph on myrrh, see herbalist Richard Whelan's excellent reference:
 
-- [Myrrh](https://www.rjwhelan.co.nz/herbs A-Z/myrrh.html) — Comprehensive profile including traditional uses, active constituents, and therapeutic applications
+- [Myrrh](https://www.rjwhelan.co.nz/herbs%20A-Z/myrrh.html) — Comprehensive profile including traditional uses, active constituents, and therapeutic applications
 
 ---
+
+[^1]: [Propolis](https://en.wikipedia.org/wiki/Propolis) — Wikipedia. Bees produce propolis by mixing saliva and beeswax with exudate gathered from tree buds and sap flows.
+
+[^2]: Sforcin, J. M., & Bankova, V. (2011). Propolis: Is there a potential for the development of new drugs? *Journal of Ethnopharmacology*, 133(2), 253-260. Documents propolis use from ancient Egypt through modern phytomedicine.
+
+[^3]: Koo, H., et al. (2002). Effects of compounds found in propolis on *Streptococcus mutans* growth and on glucosyltransferase activity. *Antimicrobial Agents and Chemotherapy*, 46(5), 1302-1309.
+
+[^4]: Agarwal, G., et al. (2019). Propolis and its potential in dentistry: A review. *Journal of Oral Biology and Craniofacial Research*, 9(2), 150-156. Meta-analysis showing propolis comparable to chlorhexidine for periodontal outcomes.
+
+[^5]: [German Commission E](https://en.wikipedia.org/wiki/Commission_E) — Wikipedia. Germany's regulatory body for herbal medicines, known for rigorous evidence standards. Approved myrrh for oral and pharyngeal mucosal inflammation.
+
+[^6]: Mascarenhas, A. K., et al. (2002). Use of a sanguinarine-containing toothpaste and development of oral leukoplakia. *Archives of Pediatrics & Adolescent Medicine*, 156(5), 461-466.

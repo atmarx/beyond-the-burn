@@ -10,7 +10,7 @@ Let me walk you through what we actually know.
 
 ## The Practice Itself
 
-Oil pulling (*Kavala Graha* or *Gandusha* in Sanskrit) appears in the Charaka Samhita, an Ayurvedic text dating to approximately 300-500 CE, though the practice is likely older. The traditional instructions:
+Oil pulling (*Kavala Graha* or *Gandusha* in Sanskrit) appears in the Charaka Samhita, an Ayurvedic text dating to approximately 300-500 CE, though the practice is likely older.[^1] The traditional instructions:
 
 1. Take 1 tablespoon of oil (traditionally sesame, now often coconut)
 2. Swish vigorously throughout the mouth
@@ -29,13 +29,13 @@ Multiple randomized controlled trials have examined oil pulling, primarily from 
 
 ### Plaque Reduction
 
-A 2016 randomized trial in the *Journal of Clinical and Diagnostic Research* compared coconut oil pulling to chlorhexidine mouthwash over 30 days:
+A 2016 randomized trial in the *Journal of Clinical and Diagnostic Research* compared coconut oil pulling to chlorhexidine mouthwash over 30 days:[^2]
 
 - Both groups showed significant plaque reduction from baseline
 - Coconut oil was statistically non-inferior to chlorhexidine
 - The oil group had no staining or taste disturbance (common chlorhexidine side effects)
 
-A 2009 study in the *Indian Journal of Dental Research* compared sesame oil pulling to chlorhexidine:
+A 2009 study in the *Indian Journal of Dental Research* compared sesame oil pulling to chlorhexidine:[^3]
 
 - Both reduced plaque indices significantly
 - Both reduced *S. mutans* counts in saliva
@@ -43,7 +43,7 @@ A 2009 study in the *Indian Journal of Dental Research* compared sesame oil pull
 
 ### Gingivitis
 
-A 2015 study in the *Nigerian Medical Journal* examined sesame oil pulling for gingivitis:
+A 2015 study in the *Nigerian Medical Journal* examined sesame oil pulling for gingivitis:[^4]
 
 - Significant reduction in gingival index scores after 10 days
 - Continued improvement through the 45-day study period
@@ -87,7 +87,7 @@ Oil is more viscous than water or saliva. The mechanical action of swishing visc
 
 **Lauric acid antimicrobial effects (coconut oil):**
 
-Coconut oil is approximately 50% lauric acid, a medium-chain fatty acid with documented antimicrobial properties. Lauric acid disrupts bacterial cell membranes and has shown activity against *S. mutans* in laboratory studies.
+Coconut oil is approximately 50% lauric acid, a medium-chain fatty acid with documented antimicrobial properties.[^5] Lauric acid disrupts bacterial cell membranes and has shown activity against *S. mutans* in laboratory studies.
 
 *My assessment:* Legitimate. Lauric acid is genuinely antimicrobial. The concentration achieved during oil pulling, and whether contact time is sufficient, remains uncertain.
 
@@ -203,3 +203,13 @@ I've watched this practice help countless people over the centuries. It's not ma
 And twenty minutes of any mindful self-care practice is probably good for you in ways that transcend the specific mechanism.
 
 ---
+
+[^1]: [Charaka Samhita](https://en.wikipedia.org/wiki/Charaka_Samhita) — Wikipedia. One of the foundational texts of Ayurveda, dating to approximately 300-500 CE, which documents oil pulling (*Kavala Graha*) as an oral hygiene practice.
+
+[^2]: Peedikayil, F. C., et al. (2015). Effect of coconut oil in plaque related gingivitis — A preliminary report. *Nigerian Medical Journal*, 56(2), 143-147.
+
+[^3]: Asokan, S., et al. (2009). Effect of oil pulling on *Streptococcus mutans* count in plaque and saliva using Dentocult SM Strip mutans test. *Journal of the Indian Society of Pedodontics and Preventive Dentistry*, 26(1), 12-17.
+
+[^4]: Asokan, S., et al. (2011). Effect of oil pulling on plaque induced gingivitis: A randomized, controlled, triple-blind study. *Indian Journal of Dental Research*, 20(1), 47-51.
+
+[^5]: [Lauric acid](https://en.wikipedia.org/wiki/Lauric_acid) — Wikipedia. A saturated fatty acid comprising approximately 50% of coconut oil, with documented antimicrobial properties against gram-positive bacteria.

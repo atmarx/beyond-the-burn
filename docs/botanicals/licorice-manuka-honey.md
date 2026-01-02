@@ -6,17 +6,17 @@ The key, as always, is in the chemistry.
 
 ## Licorice Root (*Glycyrrhiza glabra* and *G. uralensis*)
 
-Licorice is one of the most extensively documented medicinal plants in history. It appears in the Ebers Papyrus from ancient Egypt (circa 1550 BCE), in traditional Chinese medicine texts going back millennia, in Greek and Roman herbals, and in medieval European apothecaries.
+Licorice is one of the most extensively documented medicinal plants in history. It appears in the Ebers Papyrus from ancient Egypt (circa 1550 BCE), in traditional Chinese medicine texts going back millennia, in Greek and Roman herbals, and in medieval European apothecaries.[^1]
 
 The root has a distinctive sweet taste—it's actually sweeter than sugar, though the sweetness compounds are different molecules entirely.
 
 ### The Chemistry
 
-**Glycyrrhizin (glycyrrhizic acid):** The primary sweet compound, about 30-50 times sweeter than sucrose. It's a triterpenoid saponin with significant biological activity—anti-inflammatory, antiviral, and hepatoprotective. This is also the compound that can cause problems with prolonged high-dose use (more on that below).
+**Glycyrrhizin (glycyrrhizic acid):** The primary sweet compound, about 30-50 times sweeter than sucrose.[^2] It's a triterpenoid saponin with significant biological activity—anti-inflammatory, antiviral, and hepatoprotective. This is also the compound that can cause problems with prolonged high-dose use (more on that below).
 
 **Glabridin:** A flavonoid found specifically in *G. glabra* (European licorice) with strong antioxidant and antimicrobial properties.
 
-**Licoricidin and licorisoflavan A:** These are the oral health superstars—isoflavonoids that specifically interfere with *S. mutans* and biofilm formation.
+**Licoricidin and licorisoflavan A:** These are the oral health superstars—isoflavonoids that specifically interfere with *S. mutans* and biofilm formation.[^3]
 
 **Other flavonoids:** Multiple compounds with various antioxidant and anti-inflammatory effects.
 
@@ -34,7 +34,7 @@ Here's where it gets interesting. Researchers discovered that specific licorice 
 
 **Clinical studies:** Several studies have examined licorice for oral health:
 
-*The lollipop studies:* Yes, really. Researchers created sugar-free lollipops containing licorice root extract and tested them in children. The results showed significant reductions in *S. mutans* counts after just 10 days of twice-daily lollipop use. The effect persisted for weeks after the intervention ended.
+*The lollipop studies:* Yes, really. Researchers created sugar-free lollipops containing licorice root extract and tested them in children. The results showed significant reductions in *S. mutans* counts after just 10 days of twice-daily lollipop use. The effect persisted for weeks after the intervention ended.[^4]
 
 This might seem counterintuitive—a candy that prevents cavities?—but the licorice compounds provide protection that outweighs the minimal sugar exposure (especially in sugar-free formulations).
 
@@ -48,7 +48,7 @@ This might seem counterintuitive—a candy that prevents cavities?—but the lic
 
 Before you start consuming licorice by the handful, I need to warn you: glycyrrhizin has significant effects on the body.
 
-Glycyrrhizin inhibits an enzyme (11-β-hydroxysteroid dehydrogenase) that normally inactivates cortisol. The result is that cortisol activity increases, which can lead to:
+Glycyrrhizin inhibits an enzyme (11-β-hydroxysteroid dehydrogenase) that normally inactivates cortisol.[^5] The result is that cortisol activity increases, which can lead to:
 
 - Hypertension (high blood pressure)
 - Hypokalemia (low potassium)
@@ -87,7 +87,7 @@ Honey is primarily sugar—fructose and glucose. By all conventional logic, it s
 
 Manuka honey comes from bees that pollinate the Manuka bush (*Leptospermum scoparium*), native to New Zealand. While all honey has some antimicrobial activity (due to high sugar concentration, low pH, and hydrogen peroxide production), Manuka has an additional factor.
 
-**Methylglyoxal (MGO):** This is a reactive compound found at much higher concentrations in Manuka honey than in other honeys. MGO is directly antimicrobial—it modifies bacterial proteins and DNA, interfering with bacterial function.
+**Methylglyoxal (MGO):** This is a reactive compound found at much higher concentrations in Manuka honey than in other honeys.[^6] MGO is directly antimicrobial—it modifies bacterial proteins and DNA, interfering with bacterial function.
 
 **UMF and MGO ratings:** Manuka honey is graded for its antimicrobial activity:
 
@@ -119,7 +119,7 @@ The cariogenic risk is reduced when:
 
 ### The Evidence
 
-**Wound healing:** Manuka honey has strong evidence for wound healing, including several Cochrane reviews for burns and surgical wounds. It's used in medical-grade wound dressings.
+**Wound healing:** Manuka honey has strong evidence for wound healing, including several Cochrane reviews for burns and surgical wounds.[^7] It's used in medical-grade wound dressings.
 
 **Oral health specifically:** Evidence is more limited:
 
@@ -172,6 +172,20 @@ Licorice isn't sucrose. Manuka isn't table sugar. The mouth knows the difference
 
 For a detailed monograph on licorice, see herbalist Richard Whelan's excellent reference:
 
-- [Licorice Root](https://www.rjwhelan.co.nz/herbs A-Z/licorice.html) — Comprehensive profile including traditional uses, glycyrrhizin safety considerations, and therapeutic applications
+- [Licorice Root](https://www.rjwhelan.co.nz/herbs%20A-Z/licorice.html) — Comprehensive profile including traditional uses, glycyrrhizin safety considerations, and therapeutic applications
 
 ---
+
+[^1]: [Liquorice](https://en.wikipedia.org/wiki/Liquorice) — Wikipedia. Documents licorice use from ancient Egypt through Chinese, Greek, Roman, and medieval European traditions.
+
+[^2]: Isbrucker, R. A., & Burdock, G. A. (2006). Risk and safety assessment on the consumption of Licorice root (*Glycyrrhiza* sp.), its extract and powder as a food ingredient. *Regulatory Toxicology and Pharmacology*, 46(3), 167-192.
+
+[^3]: Hu, C. H., et al. (2006). A novel antibiofilm effect of a herbal extract (*Glycyrrhiza glabra*) on *S. mutans* biofilms. *Caries Research*, 40(5), 467-470.
+
+[^4]: Peters, M. C., et al. (2010). Effects of a lollipop containing licorice root extract on *Streptococcus mutans* in school children: a pilot study. *European Journal of Dentistry*, 4(1), 55-58.
+
+[^5]: [Glycyrrhizin](https://en.wikipedia.org/wiki/Glycyrrhizin) — Wikipedia. The mechanism of pseudoaldosteronism through 11-β-HSD inhibition is well characterized.
+
+[^6]: Mavric, E., et al. (2008). Identification and quantification of methylglyoxal as the dominant antibacterial constituent of Manuka honey. *Molecular Nutrition & Food Research*, 52(4), 483-489.
+
+[^7]: Jull, A. B., et al. (2015). Honey as a topical treatment for wounds. *Cochrane Database of Systematic Reviews*, (3). CD005083.

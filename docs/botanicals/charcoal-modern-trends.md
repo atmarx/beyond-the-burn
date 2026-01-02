@@ -30,7 +30,7 @@ Let's examine the reality.
 
 ### The Evidence (or Lack Thereof)
 
-A 2017 systematic review in the *Journal of the American Dental Association* examined all available evidence on charcoal dental products. The conclusion was damning:
+A 2017 systematic review in the *Journal of the American Dental Association* examined all available evidence on charcoal dental products.[^1] The conclusion was damning:
 
 > "There is insufficient clinical and laboratory data to substantiate the safety and efficacy claims of charcoal and charcoal-based dentifrices."
 
@@ -41,7 +41,7 @@ The authors found:
 - **Concern about abrasivity** damaging enamel
 - **Potential interference** with fluoride (charcoal may adsorb the fluoride from toothpaste, negating its benefit)
 
-A 2019 study in the *British Dental Journal* tested five charcoal toothpastes and found:
+A 2019 study in the *British Dental Journal* tested five charcoal toothpastes and found:[^2]
 
 - High variability in charcoal content
 - Several products had abrasivity levels high enough to damage enamel with regular use
@@ -50,7 +50,7 @@ A 2019 study in the *British Dental Journal* tested five charcoal toothpastes an
 ### My Specific Concerns
 
 **Abrasivity:**
-Relative Dentin Abrasivity (RDA) is the standard measure of toothpaste abrasiveness. The ADA recommends RDA below 250 for daily use; most regular toothpastes are 70-150. Many charcoal toothpastes have never been tested, and those that have often show high RDA values.
+Relative Dentin Abrasivity (RDA) is the standard measure of toothpaste abrasiveness.[^3] The ADA recommends RDA below 250 for daily use; most regular toothpastes are 70-150. Many charcoal toothpastes have never been tested, and those that have often show high RDA values.
 
 Enamel doesn't regenerate. Every particle of enamel you abrade away is gone forever. Using a highly abrasive paste to remove surface stains may create a briefly whiter appearance while permanently thinning the enamel—revealing the yellower dentin beneath and increasing sensitivity and decay risk.
 
@@ -122,7 +122,7 @@ The better integration is oil pulling (where the extended contact time makes mor
 
 ## "Natural" Toothpaste: What the Label Means (and Doesn't)
 
-The word "natural" on oral care products is essentially meaningless from a regulatory standpoint. There is no FDA definition, no required standard, no certification process. Any product can claim to be natural.
+The word "natural" on oral care products is essentially meaningless from a regulatory standpoint.[^5] There is no FDA definition, no required standard, no certification process. Any product can claim to be natural.
 
 ### Common "Natural" Toothpaste Ingredients
 
@@ -143,7 +143,7 @@ The word "natural" on oral care products is essentially meaningless from a regul
 
 Many consumers seeking "natural" toothpaste are specifically avoiding fluoride, based on concerns ranging from legitimate (fluorosis risk with excessive ingestion during tooth development) to conspiratorial (government mind control, etc.).
 
-I want to be clear: **fluoride is the single most evidence-supported intervention for caries prevention.** Topical fluoride (in toothpaste) has an excellent safety profile and strong efficacy data. The concerns about fluoride toxicity apply to systemic ingestion, not topical oral use in adults.
+I want to be clear: **fluoride is the single most evidence-supported intervention for caries prevention.**[^4] Topical fluoride (in toothpaste) has an excellent safety profile and strong efficacy data. The concerns about fluoride toxicity apply to systemic ingestion, not topical oral use in adults.
 
 If you choose a fluoride-free "natural" toothpaste, you should:
 
@@ -219,3 +219,13 @@ The common thread: simple, well-understood interventions often outperform comple
 In the next section, we'll turn to modern innovations that actually *do* represent genuine advances: hydroxyapatite, CPP-ACP, and emerging technologies that may define the future of remineralization.
 
 ---
+
+[^1]: Brooks, J. K., et al. (2017). Charcoal and charcoal-based dentifrices: A literature review. *Journal of the American Dental Association*, 148(9), 661-670.
+
+[^2]: Greenwall, L. H., et al. (2019). Charcoal-containing dentifrices. *British Dental Journal*, 226(9), 697-700.
+
+[^3]: [Relative dentin abrasivity](https://en.wikipedia.org/wiki/Relative_dentin_abrasivity) — Wikipedia. The standardized measure of toothpaste abrasiveness, with values under 250 considered safe for daily use.
+
+[^4]: Marinho, V. C., et al. (2003). Fluoride toothpastes for preventing dental caries in children and adolescents. *Cochrane Database of Systematic Reviews*, (1). CD002278. Meta-analysis confirming 24% caries reduction.
+
+[^5]: U.S. Food and Drug Administration. The FDA does not define or regulate the term "natural" on cosmetic or oral care product labels.
