@@ -8,13 +8,16 @@ I only scaffolded what I knew of the overarching ideas and avenues of solution I
 
 My goal in sharing this is simple: to help people make more informed decisions about their oral health. Not to replace professional dental care, but to complement it. To understand *why* certain practices work, so you can adapt them to your own life rather than following rote instructions that may or may not suit your particular mouth.
 
-My father has always said:
+My father has always told me:
 
 > *"Your teeth are one of the only problems in your life that will go away if you ignore them."*
 
 Teeth don't heal themselves the way skin does. Once they're gone, they're gone. That reality—the irreversibility of dental decay—is what makes understanding this stuff so worthwhile. Prevention isn't just easier than treatment; for teeth, it's often the only real option.
 
 I hope you find something useful here. Read critically, experiment carefully, and don't forget to see your dentist.
+
+--Andrew
+(@atmarx)
 
 ---
 
