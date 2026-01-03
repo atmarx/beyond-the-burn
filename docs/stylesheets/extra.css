@@ -65,6 +65,17 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Custom logo sizing */
+.md-header__button.md-logo img {
+  height: 100px;
+  width: auto;
+}
+
+.md-header__button.md-logo {
+    margin: -.6rem 0;
+    padding: 0;
+}
+
 /* Admonition font size adjustment */
 .md-typeset .admonition,
 .md-typeset details,
