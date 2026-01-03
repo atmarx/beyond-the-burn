@@ -1,4 +1,4 @@
-# Contributing to Mouth Garden
+# Contributing to Keep Your Teeth
 
 Thank you for your interest in contributing to this project! This document provides guidelines for contributions.
 

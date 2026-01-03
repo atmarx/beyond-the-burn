@@ -1,4 +1,4 @@
-# Tending Your Mouth Garden
+# Keep Your Teeth
 
 **What the Tooth Fairy Has Been Trying to Tell You**
 *An Ecological Approach to Oral Health*
@@ -25,8 +25,8 @@ The book synthesizes research across:
 
 ```bash
 # Clone the repository
-git clone https://github.com/atmarx/mouth-garden.git
-cd mouth-garden
+git clone https://github.com/atmarx/keep-your-teeth.git
+cd keep-your-teeth
 
 # Set up environment and serve
 ./mkdocs-build.sh setup    # First time only

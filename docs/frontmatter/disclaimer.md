@@ -4,7 +4,7 @@
 
 ## This Is Not Medical Advice
 
-The information provided in *Tending Your Mouth Garden* is for **educational and informational purposes only**. It is not intended to be a substitute for professional medical or dental advice, diagnosis, or treatment.
+The information provided in *Keep Your Teeth* is for **educational and informational purposes only**. It is not intended to be a substitute for professional medical or dental advice, diagnosis, or treatment.
 
 **Always seek the advice of your dentist, physician, or other qualified health provider** with any questions you may have regarding a medical condition or treatment. Never disregard professional advice or delay in seeking it because of something you have read on this website or in this book.
 

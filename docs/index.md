@@ -1,4 +1,4 @@
-# Tending Your Mouth Garden
+# Keep Your Teeth
 
 ![Tooth fairy, weary after a life of collecting teeth.](./images/tooth-fairy.png){ width=200 align=right }
 
