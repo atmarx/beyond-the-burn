@@ -1,10 +1,8 @@
-# Keep Your Teeth
+![The Tooth Fairy, weary after a lifetime spent collecting teeth.](./images/tooth-fairy.png){ width=200 align=right }
 
-![Tooth fairy, weary after a life of collecting teeth.](./images/tooth-fairy.png){ width=200 align=right }
+# Keep Your Teeth!
 
 ## What the Tooth Fairy Has Been Trying to Tell You
-
-## What This Book Is About
 
 Your mouth isn't a war zone. It's an **ecosystem**. A garden. A coral reef, if you want to get poetic about it.
 

@@ -76,6 +76,16 @@ html {
     padding: 0;
 }
 
+/* Responsive images - center on mobile instead of float */
+@media screen and (max-width: 768px) {
+  .md-typeset img[align="right"],
+  .md-typeset img.right {
+    float: none;
+    display: block;
+    margin: 1rem auto;
+  }
+}
+
 /* Admonition font size adjustment */
 .md-typeset .admonition,
 .md-typeset details,
