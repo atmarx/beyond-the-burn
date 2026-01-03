@@ -1,4 +1,4 @@
-![The Tooth Fairy, weary after a lifetime spent collecting teeth.](./images/tooth-fairy.png){ width=200 align=right }
+![The Tooth Fairy, weary after a lifetime spent collecting teeth.](./images/tooth-fairy.png){ width=250 align=right }
 
 # Keep Your Teeth!
 
@@ -6,9 +6,11 @@
 
 Your mouth isn't a war zone. It's an **ecosystem**. A garden. A coral reef, if you want to get poetic about it.
 
-There are over seven hundred species of bacteria in there, and most of them are trying to help you. When you napalm the whole system with antiseptic mouthwash, you don't create health. You create chaos.
+There are hundreds of species of bacteria in there, and a *lot* of them are trying to help you. When you napalm the whole system with antiseptic mouthwash, you don't create health. You create chaos.
 
 This book is about understanding what's actually happening in your mouth every hour of every day—and working *with* it rather than against it.
+
+**Are you ready to start listening?**
 
 ---
 
