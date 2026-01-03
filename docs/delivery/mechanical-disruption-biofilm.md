@@ -2,7 +2,7 @@
 
 Before any rinse can work—before essential oils can contact bacteria, before baking soda can buffer pH, before salt can create osmotic stress—something has to happen first. The biofilm has to be disrupted.
 
-I introduced biofilms in Chapter 10, but let me revisit why they matter so much for delivery. Understanding this will transform how you think about oral hygiene.
+[I introduced biofilms in Chapter 10](../enemies/biofilm-fortress.md), but let me revisit why they matter so much for delivery. Understanding this will transform how you think about oral hygiene.
 
 ## The Fortress Problem
 
