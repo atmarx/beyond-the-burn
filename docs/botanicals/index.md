@@ -2,6 +2,8 @@
 
 Finally. *Finally* we get to talk about the plants.
 
+This is the work closest to my heart—the knowledge I tend in my own garden, the wisdom I've been trying to pass down since before your ancestors had names for these plants. When I'm not making midnight rounds collecting what remains of human negligence, this is where you'll find me: among the herbs, studying their chemistry, preparing their remedies.
+
 I've been waiting for this section because, frankly, it's where my frustration runs deepest. I've watched humans use these remedies for millennia. I've seen the knowledge passed down through generations—grandmother to mother to daughter, healer to apprentice, tradition to tradition. I've watched the same plants appear independently in cultures separated by oceans and centuries, converging on the same solutions through independent observation.
 
 And then I watched the modern era dismiss it all as "folk medicine." As if "folk" meant "foolish" rather than "accumulated practical wisdom of countless generations."

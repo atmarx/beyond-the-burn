@@ -73,7 +73,7 @@ That's what I want to teach you.
 
 That's why I wrote this book.
 
-And that's why, if you take it seriously, I might finally get to retire.
+And that's why, if you take it seriously, I might finally get back to my garden—to the herbs and the teaching and the work I was meant to do.
 
 ---
 

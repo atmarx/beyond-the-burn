@@ -36,7 +36,7 @@ This book is my attempt to explain what I've been watching for millennia: how te
 
 It's also a plea.
 
-I don't want to keep doing this job. I don't want to keep visiting bedrooms in the middle of the night to collect what remains of something beautiful. I want to retire. I want to spend my immortal years doing literally anything other than cataloging human dental failures.
+I don't want to keep doing this job. I don't want to keep visiting bedrooms in the middle of the night to collect what remains of something beautiful. I want to return to my true work—tending my garden of healing herbs, studying the old remedies, teaching those who seek to understand. Every midnight collection pulls me away from the apothecary where I belong.
 
 But that can only happen if you start doing things differently.
 
@@ -66,6 +66,6 @@ It's time you started listening back.
 
 *— The Tooth Fairy*
 
-*Who has been doing this for far too long, and would like very much to stop*
+*Who would rather be in her garden than under your pillow*
 
 ---

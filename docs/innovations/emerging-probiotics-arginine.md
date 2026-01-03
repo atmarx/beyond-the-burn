@@ -237,7 +237,7 @@ After watching dental technology evolve for longer than your species has had den
 
 I find this genuinely hopeful. After millennia of watching humans lose teeth that could have been saved, I'm starting to see a future where dental decay becomes rare rather than common.
 
-It can't happen soon enough. I'm tired. But for the first time in centuries, I think retirement might actually be possible.
+It can't happen soon enough. I'm tired. But for the first time in centuries, I think I might finally get back to my true work—the garden, the herbs, the teaching. The work that calls to me when I'm not called to your bedsides.
 
 ---
 

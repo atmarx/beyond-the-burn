@@ -21,9 +21,9 @@ Future improvements and ideas for "Beyond the Burn."
 ### Medium Priority
 
 - [ ] **Case studies** — Real-world examples of protocol success stories
-- [ ] **Expanded children's section** — Age-specific guidance (infant, toddler, child, teen)
-- [ ] **Pregnancy chapter** — Hormonal changes and oral health
-- [ ] **Elderly considerations** — Dry mouth, medications, root decay
+- [x] **Expanded children's section** — Age-specific guidance (infant, toddler, child, teen) ✓ Ch. 33 expanded
+- [x] **Pregnancy chapter** — Hormonal changes and oral health ✓ Ch. 35 added
+- [x] **Elderly considerations** — Dry mouth, medications, root decay ✓ Ch. 36 added
 - [ ] **Special conditions** — Diabetes, autoimmune, cancer treatment
 - [ ] **Product recommendations** — Specific brands that meet criteria (with disclaimers)
 - [ ] **Troubleshooting guide** — "My gums still bleed after 2 weeks of..."
@@ -112,7 +112,7 @@ Topics that could expand existing chapters or become new ones:
 
 ## Completed
 
-- [x] Core manuscript (33 chapters + 4 appendices)
+- [x] Core manuscript (36 chapters + 4 appendices)
 - [x] Foreword with CC BY 4.0 license
 - [x] MkDocs website with Material theme
 - [x] Semantic URL structure
@@ -125,7 +125,10 @@ Topics that could expand existing chapters or become new ones:
 - [x] Website deployment (https://toothfairy.rf.gd/)
 - [x] Anchor links / deep linking to sections
 - [x] Footnote citations throughout all chapters (~60 footnotes)
-- [x] Image placeholders with AI generation prompts (5 diagrams)
+- [x] Image placeholders with AI generation prompts (7 diagrams)
+- [x] Pregnancy oral health chapter (Ch. 35) with breastfeeding and midwifery sections
+- [x] Elderly oral health chapter (Ch. 36) covering dry mouth, root caries, medications
+- [x] Expanded children's chapter with microbiome colonization, special needs, sports/mouthguards
 
 ---
 

@@ -141,7 +141,7 @@ That's the integration I'm asking you to embrace.
 
 *Take care of your mouth. But let your mouth be taken care of when it needs to be.*
 
-*And if you do all of this well—if you combine the ecological awareness with the professional partnerships, the daily practices with the periodic interventions—then maybe, just maybe, I'll finally get to retire.*
+*And if you do all of this well—if you combine the ecological awareness with the professional partnerships, the daily practices with the periodic interventions—then maybe, just maybe, I'll finally get back to my garden, my apothecary, my teaching. The work that waits for me.*
 
 *I'm not holding my breath. But I'm hoping.*
 
