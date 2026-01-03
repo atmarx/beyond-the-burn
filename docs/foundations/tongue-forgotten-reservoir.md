@@ -42,7 +42,7 @@ The tongue acts as a **reservoir** for these organisms. Even after professional 
 
 ## The Nitrate Connection Revisited
 
-The tongue is particularly important for the nitrate-reducing bacteria we discussed in the previous chapter.
+The tongue is particularly important for the nitrate-reducing bacteria we discussed in [the previous chapter](oral-microbiome-ecosystem.md).
 
 Studies have shown that nitrate-reducing activity is concentrated on the posterior (back) portion of the tongue, where anaerobic conditions favor the relevant bacterial species. Rothia mucilaginosa and certain Actinomyces and Veillonella species on the tongue perform much of the nitrate-to-nitrite conversion that contributes to cardiovascular health.
 

@@ -68,7 +68,7 @@ Here's where real enamel damage can occur.
 
 If you experience morning sickness—especially severe or prolonged vomiting—your teeth are being bathed in stomach acid. Gastric acid has a pH around 1-2, far below the critical pH of 5.5 where enamel dissolves. Each vomiting episode is an acid attack.
 
-The instinct is to brush immediately after—to get that awful taste out of your mouth. But as we discussed earlier, brushing acid-softened enamel removes it. You're scrubbing away your enamel while it's in its most vulnerable state.
+The instinct is to brush immediately after—to get that awful taste out of your mouth. But as we [discussed earlier](../enemies/acid-equation-demineralization.md), brushing acid-softened enamel removes it. You're scrubbing away your enamel while it's in its most vulnerable state.
 
 **Instead:**
 1. Rinse your mouth with water immediately after vomiting

@@ -6,7 +6,7 @@ And yet, here we are, with substantial segments of the population convinced that
 
 ## The Mechanism: How Fluoride Actually Works
 
-Understanding fluoride requires returning to the chemistry of enamel we discussed in Part I. Remember that hydroxyapatite exists in equilibrium with the surrounding oral fluid:
+Understanding fluoride requires returning to the [chemistry of enamel we discussed in Part I](../foundations/enamel-crystal-chemistry.md). Remember that hydroxyapatite exists in equilibrium with the surrounding oral fluid:
 
 $$\text{Ca}_{10}(\text{PO}_4)_6(\text{OH})_2 \rightleftharpoons 10\text{Ca}^{2+} + 6\text{PO}_4^{3-} + 2\text{OH}^-$$
 

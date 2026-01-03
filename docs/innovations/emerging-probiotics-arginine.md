@@ -115,7 +115,7 @@ Bioactive glasses show promise for:
 
 ## Arginine and Alkali-Generating Technologies
 
-We touched on arginine earlier when discussing the ecological paradigm. As a remineralization technology, arginine represents something different: rather than providing minerals directly, it supports the bacteria that create favorable conditions for natural remineralization.
+We touched on arginine earlier when [discussing the ecological paradigm](../history/paradigm-shift-ecological.md#arginine). As a remineralization technology, arginine represents something different: rather than providing minerals directly, it supports the bacteria that create favorable conditions for natural remineralization.
 
 ### The Mechanism Revisited
 

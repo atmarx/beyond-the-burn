@@ -79,7 +79,7 @@ The charcoal trend will pass. Your enamel needs to last forever.
 
 ## Coconut Oil Toothpaste: Better Than Charcoal, But Questions Remain
 
-The popularity of coconut oil in oral care has two distinct manifestations: oil pulling (discussed in the previous chapter, with reasonable evidence) and coconut oil toothpaste (more mixed).
+The popularity of coconut oil in oral care has two distinct manifestations: oil pulling (discussed in [the previous chapter](oil-pulling-coconut-sesame.md), with reasonable evidence) and coconut oil toothpaste (more mixed).
 
 ### The Claims
 
@@ -177,7 +177,7 @@ Translating microbiome science into effective consumer products is much harder t
 
 **Be skeptical of microbiome marketing; the science is outpacing the products.** The ecological approach to oral care doesn't require buying expensive new products—it requires understanding your mouth and using simple tools wisely.
 
-The best "microbiome-friendly" oral care is what we've already discussed:
+The best "microbiome-friendly" oral care is what we've [already discussed](../history/paradigm-shift-ecological.md):
 
 - Avoid antiseptic mouthwashes for routine use
 - Use gentle, pH-supportive rinses

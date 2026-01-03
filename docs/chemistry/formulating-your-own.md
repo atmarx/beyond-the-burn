@@ -193,7 +193,7 @@ If remineralization is your specific goal—perhaps you have early white spot le
 Use this 30+ minutes after brushing with fluoride toothpaste. You don't want to wash away the fluoride, and you want the remineralization support to follow the fluoride exposure for potential synergy.
 
 **Realistic expectations:**
-As I discussed in Chapter 11, the amount of calcium and phosphate you're delivering this way is modest compared to what saliva provides. This is a support, not a miracle. For serious remineralization needs, products like MI Paste (CPP-ACP) or nano-hydroxyapatite toothpastes may be more effective. But this is a low-cost option that probably helps at the margins.
+As I discussed in [Chapter 2](../foundations/saliva-unsung-hero.md), the amount of calcium and phosphate you're delivering this way is modest compared to what saliva provides. This is a support, not a miracle. For serious remineralization needs, products like MI Paste (CPP-ACP) or nano-hydroxyapatite toothpastes may be more effective. But this is a low-cost option that probably helps at the margins.
 
 ## The Clove Oil Spot Treatment
 
