@@ -4,6 +4,8 @@
 
 ---
 
+![Healthy mouth with teeth. Photo by <a href='https://unsplash.com/@dentistozkanguner'>Ozkan Guner</a> on <a href='https://unsplash.com/photos/enO4DQOQu7k'>Unsplash</a>](../images/healthy-mouth.webp){ align=right width=350 }
+
 Let me introduce you to the hardest substance your body will ever produce.
 
 It's not bone, though people often make that mistake. Bone is impressive in its own way—strong, flexible, capable of healing and remodeling itself throughout your life. But bone is only about 65% mineral.[^1] The rest is proteins and living cells, which is why bone can repair a fracture in ways that a tooth never could.

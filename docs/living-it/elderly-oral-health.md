@@ -102,6 +102,8 @@ Older adults often manage multiple health conditions that affect oral health:
 
 ## The Denture Myth
 
+![Older man removing dentures. Photo by <a href='https://unsplash.com/@diana_pole'>Diana Polekhina</a> on <a href='https://unsplash.com/photos/Er3c9JVvUZM'>Unsplash</a>](../images/dentures.webp){ align=right width=200 }
+
 Let me address something that angers me: the assumption that dentures are just what happens when you get old.
 
 Full dentures are a last resort, not a natural progression. They represent failure—of the dental system, of patient education, of access to care, of something. They should not be normalized.
@@ -117,6 +119,8 @@ Dentures are:
 Every tooth you keep is a victory. Keeping even a few natural teeth—especially the canines—dramatically improves the success and stability of partial dentures compared to full dentures.
 
 If you still have teeth, **fight for them**. If you've already lost some, fight for the ones that remain.
+
+![Dental implant model. Photo by <a href='https://unsplash.com/@jonathanborba'>Jonathan Borba</a> on <a href='https://unsplash.com/photos/W9YEY6G8LVM'>Unsplash</a>](../images/implant.webp){ align=right width=200 }
 
 ## The Medications Conversation
 

@@ -58,6 +58,21 @@ plugins:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   - minify:
       minify_html: true
+  - glightbox:
+       touchNavigation: true
+       loop: false
+       effect: zoom
+       slide_effect: slide
+       width: 100%
+       height: auto
+       zoomable: true
+       draggable: true
+       auto_themed: false
+       auto_caption: true
+       caption_position: bottom
+       background: white
+       shadow: true
+       manual: false
 
 # Markdown extensions
 markdown_extensions:

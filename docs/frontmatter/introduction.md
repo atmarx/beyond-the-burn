@@ -29,6 +29,8 @@ The "bare minimum" for oral health, as commonly understood, consists of:
 
 This routine is treated as a sort of checkbox exercise—do these things, and you've fulfilled your obligations to your teeth. If problems develop anyway, well, that's just genetics, or bad luck, or the mysterious workings of dental fate.
 
+![Healthy teeth. Photo by <a href='https://unsplash.com/@colourblindkevin'>Colourblind Kevin</a> on <a href='https://unsplash.com/photos/2FwxoOj1eO8'>Unsplash</a>](../images/teeth.webp){ align=right width=300 }
+
 But teeth don't work like checklists. They work like ecosystems.
 
 Your teeth aren't static objects that you clean and then forget about until the next cleaning. They're dynamic mineral structures engaged in a constant chemical conversation with their environment. Every hour of every day, they're either dissolving a little or rebuilding a little, and which direction they go depends on conditions you largely control—often without realizing it.

@@ -195,6 +195,8 @@ Non-nutritive sucking is normal and typically harmless before age 3-4. After tha
 
 ### School Age (6-12 years)
 
+![Child smiling. Photo by <a href='https://unsplash.com/@amanda_sofia_'>Amanda Sofia Pellenz</a> on <a href='https://unsplash.com/photos/YuidWzM37C0'>Unsplash</a>](../images/child-smiling.webp){ align=right width=200 }
+
 **Brushing:**
 
 - Child can brush independently but parent should check
@@ -376,6 +378,8 @@ Young children often swallow toothpaste instead of spitting it. This is why:
 - After-school snacks should be low-caries risk when possible (cheese, vegetables, nuts)
 
 **The bedtime bottle disaster:**
+
+![Child asleep in bed. Photo by <a href='https://unsplash.com/@sepro'>Richard R</a> on <a href='https://unsplash.com/photos/i2gwG2UkQqs'>Unsplash</a>](../images/child-asleep.webp){ align=right width=200 }
 
 - Putting a child to bed with a bottle of milk or juice is extremely cariogenic
 - The liquid pools around teeth while saliva flow is reduced

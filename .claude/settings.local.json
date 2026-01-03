@@ -81,7 +81,19 @@
       "Bash(git add:*)",
       "Bash(git remote set-url:*)",
       "Bash(pip index:*)",
-      "Bash(pip show:*)"
+      "Bash(pip show:*)",
+      "Bash(curl:*)",
+      "Bash(for f in *-raw.jpg)",
+      "Bash(do echo -n \"$f: \")",
+      "Bash(ffprobe:*)",
+      "Bash(for f in teeth dentist implant nightguard orange)",
+      "Bash(do ffmpeg -y -i \"$f-raw.jpg\" -vf \"scale=''if\\(gt\\(iw,ih\\),min\\(1000,iw\\),-2\\)'':''if\\(gt\\(ih,iw\\),min\\(1000,ih\\),-2\\)''\" -quality 85 \"$f.webp\")",
+      "Bash(for f in *.webp)",
+      "Bash(for id in rCT928GIboM Er3c9JVvUZM enO4DQOQu7k NBD2Mg7SMWo YuidWzM37C0 i2gwG2UkQqs)",
+      "Bash(do echo \"=== $id ===\")",
+      "Bash(for f in toothbrushes-raw.jpg dentures-raw.jpg healthy-mouth-raw.jpg damaged-tooth-raw.jpg child-smiling-raw.jpg child-asleep-raw.jpg)",
+      "Bash(for f in toothbrushes dentures healthy-mouth damaged-tooth child-smiling child-asleep)",
+      "Bash(echo:*)"
     ]
   }
 }
