@@ -46,7 +46,6 @@ The `mkdocs-build.sh` script manages its own Python virtual environment:
 | `./mkdocs-build.sh setup` | Create `.venv/` and install dependencies (*mkdocs-material* and *mkdocs-minify-plugin*) |
 | `./mkdocs-build.sh serve` | Start dev server at http://127.0.0.1:8000 using `--livereload` to monitor for changes |
 | `./mkdocs-build.sh build` | Build static site to `site/` |
-| `./mkdocs-build.sh prepare` | Sync manuscript → docs/ |
 | `./mkdocs-build.sh clean` | Remove generated files |
 | `./mkdocs-build.sh clean-all` | Also remove `.venv/` |
 
