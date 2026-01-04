@@ -4,6 +4,8 @@
 
 ---
 
+![The Tooth Fairy showing a mother how to brush her toddler's teeth.](../images/tooth-fairy-mom-toddler.webp){ width=400 align=right }
+
 I've watched women grow babies since before your species had dentists. I've seen the same patterns play out across millennia, across cultures, across continents: pregnancy changes mouths in ways that catch women off guard, and the advice they receive—when they receive any at all—is often incomplete or simply wrong.
 
 The old saying "gain a child, lose a tooth" didn't come from nowhere. For most of human history, it was observably true. Women who had many children often had fewer teeth by middle age than women who had few or none. The correlation was real.

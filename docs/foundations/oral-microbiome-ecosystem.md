@@ -16,6 +16,8 @@ This is the ecological view, and understanding it changes everything.
 
 ## The Oral Microbiome
 
+![The Tooth Fairy examining friendly bacteria through an ornate magnifying glass.](../images/tooth-fairy-microbiome.webp){ width=400 align=right }
+
 The community of microorganisms living in your mouth has a name: the **oral microbiome**. And it's astonishingly complex.
 
 Researchers have identified over 700 distinct species of bacteria that can live in human mouths,[^2] along with various fungi, viruses, and other microorganisms. No single person hosts all 700—a typical healthy mouth contains 100-200 species at any given time. But that's still a staggering diversity.

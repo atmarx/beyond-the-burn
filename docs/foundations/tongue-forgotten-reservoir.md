@@ -4,6 +4,8 @@
 
 ---
 
+![The Tooth Fairy exploring the tongue landscape like uncharted territory.](../images/tooth-fairy-tongue.webp){ width=400 align=right }
+
 If you've ever looked at your tongue in the mirror and noticed a whitish coating, you've glimpsed something important: your tongue isn't just a muscular organ for tasting and moving food. It's a bacterial metropolis—possibly the most densely populated surface in your entire body.
 
 And while most discussions of oral health focus on teeth and gums, neglecting the tongue means ignoring a major piece of the ecological puzzle.

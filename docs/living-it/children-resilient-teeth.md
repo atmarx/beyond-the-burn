@@ -121,6 +121,8 @@ For teething comfort:
 
 ### Toddlers (1-3 years)
 
+![The Tooth Fairy showing a mother how to brush her toddler's teeth.](../images/tooth-fairy-mom-toddler.webp){ width=400 align=right }
+
 This is the window of infectivity—the critical period when *S. mutans* typically colonizes. It's also the age when habits start forming and battles over brushing begin.
 
 **Brushing:**
